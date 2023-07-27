@@ -2,12 +2,12 @@ markdown: kramdown
 highligher: rouge
 
 permalink: /:categories/:title/
-baseurl: /LaTeX
+baseurl: /Onderwis-en-Communicatie
 
-title: "LaTeX course"
+title: "Onderwijs en Communicatie"
 subtitle: "University of Amsterdam"
 
-weeks:
+Projects:
   week1: Week 1
   week2: Week 2
   week3: Week 3

@@ -30,6 +30,10 @@
 		background-color: #fff;
 		grid-area: centerBox;
 	}
+	.column {
+  		float: left;
+  		width: 50%;
+	}
 	@supports (display: grid) {
             @media screen and (min-width: 600px) {
             .centerBox {
@@ -103,10 +107,8 @@
                 </div>
 	    </div>
 	</div>
-		<div class="row">
-  <div class="column">
 	  <h2 style="background-color: #eef;"> Wiskundeonderwijs </h2>
-                    <div>
+                    <div class="column">
                     <a href="Animations/Algorithms/Dijkstra_onMap.html">
                     <img align="middle" src="files/Dijkstra.gif"  style="width:70%;">  </a>
                     <p>
@@ -114,12 +116,6 @@
                         As example we use the streets of the Dutch town of Brielle.
                     </p>
                     </div>
-                </div>
-  </div>
-  <div class="column">
-	  <h2 style="background-color: #eef;"> Communicatie van Wiskunde </h2>
-  </div>
-</div>
                 
 </body>
 </html>

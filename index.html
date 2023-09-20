@@ -34,6 +34,11 @@
   		float: left;
   		width: 50%;
 	}
+	.row:after {
+  		content: "";
+  		display: table;
+  		clear: both;
+	}
 	@supports (display: grid) {
             @media screen and (min-width: 600px) {
             .centerBox {
@@ -107,15 +112,23 @@
                 </div>
 	    </div>
 	</div>
-	  <h2 style="background-color: #eef;"> Wiskundeonderwijs </h2>
-                    <div class="column">
-                    <a href="Animations/Algorithms/Dijkstra_onMap.html">
-                    <img align="middle" src="files/Dijkstra.gif"  style="width:70%;">  </a>
-                    <p>
-                        This shows how the Dijkstra algorithm works. This algorithm is used to compute the shortest paths between location.
-                        As example we use the streets of the Dutch town of Brielle.
-                    </p>
-                    </div>
+	 <div class="row">
+		 <div class="column">
+			 <h2 style="background-color: #eef;"> Wiskundeonderwijs </h2>
+			 <a href="Animations/Algorithms/Dijkstra_onMap.html">
+				 <img align="middle" src="files/Dijkstra.gif"  style="width:70%;">  </a>
+			 <p> 
+				 This shows how the Dijkstra algorithm works. This algorithm is used to compute the shortest paths between location. 
+				 As example we use the streets of the Dutch town of Brielle.</p>
+		 </div>
+		 <div class="column">
+			 <h2 style="background-color: #eef;"> Communicatie van de Wiskunde </h2>
+			 <a href="Animations/Algorithms/Dijkstra_onMap.html">
+				 <img align="middle" src="files/Dijkstra.gif"  style="width:70%;">  </a>
+			 <p> 
+				 In deze animatie kunnen jullie leren over Burnside's Lemma uit de Groepentheorie.</p>
+		 </div>
+	 </div>
                 
 </body>
 </html>

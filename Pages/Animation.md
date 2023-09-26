@@ -6,9 +6,14 @@ description: Deze animatie is ontwikkeld door Samuel Asmeron, Thomas de Boer, An
 ---
 
 <html>
-<img 
-	src="Images/Animation.PNG" alt="Animation of Burnside's lemma"
-	>
+<p align="center">
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/Exot1TqjElY"
+    allowfullscreen
+>
+</iframe></p>
 
 <p></p>
 <h2> Waarom een animatie?</h2>

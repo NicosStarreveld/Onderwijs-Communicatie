@@ -1,3 +1,10 @@
+---
+layout: page
+title: Animation
+category: Communication
+description: Projecten in de communicatie
+---
+
 This lesson is about what LaTeX is and how to use it.
 
 What is LaTeX?

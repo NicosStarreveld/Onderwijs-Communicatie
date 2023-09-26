@@ -2,11 +2,11 @@
 layout: page
 title: Een animatie over Burnside's lemma een introductie in de groepentheorie
 category: Communication
-description: Intro text
+description: Deze animatie is ontwikkeld door Samuel Asmeron, Thomas de Boer, Anna Heikamp en Daan Hoogcarspel. De animatie gaat over een stelling waar je bijvoorbeeld deze vraag mee kan beantwoorden: Stel er is een winkel waar kralenkettingen worden verkocht die bestaan uit de kleuren: rood, blauw en geel. Hoeveel verschillende kettingen kan deze winkel verkopen, er vanuitgaande dat we oneindig veel kralen van elke kleur hebben?
 ---
 
 <html>
-Deze animatie is ontwikkeld door Samuel Asmeron, Thomas de Boer, Anna Heikamp en Daan Hoogcarspel. De animatie gaat over een stelling waar je bijvoorbeeld deze vraag mee kan beantwoorden: Stel er is een winkel waar kralenkettingen worden verkocht die bestaan uit de kleuren: rood, blauw en geel. Hoeveel verschillende kettingen kan deze winkel verkopen, er vanuitgaande dat we oneindig veel kralen van elke kleur hebben?
+
 
 <iframe width="420" height="315"src="https://www.youtube.com/embed/Exot1TqjElY"> </iframe>
 

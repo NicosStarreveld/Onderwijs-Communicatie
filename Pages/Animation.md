@@ -6,9 +6,12 @@ description: Deze animatie is ontwikkeld door Samuel Asmeron, Thomas de Boer, An
 ---
 
 <html>
-
-
-<iframe width="420" height="315"src="https://www.youtube.com/embed/Exot1TqjElY"> </iframe>
+<iframe 
+	width="420" 
+	height="315" 
+	src="https://www.youtube.com/embed/Exot1TqjElY"
+	> 
+</iframe>
 
 <p></p>
 <h2> Waarom een animatie?</h2>

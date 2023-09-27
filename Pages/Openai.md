@@ -7,7 +7,8 @@ description: Dit project was uitgevoerd door Finn Dokter, Hu An en Barien Kanie 
 
 <html>
 <p align="center">
-
+</p>
 
 <p></p>
 <h2> Waarom ChatGPT</h2>
+</html>

@@ -7,8 +7,9 @@ description: Dit project was uitgevoerd door Finn Dokter, Hu An en Barien Kanie 
 
 <html>
 <p align="center">
+  <img src="Images/OpenAI.png" width="640" height="480">
 </p>
 
 <p></p>
-<h2> Waarom ChatGPT</h2>
+<h2> Waarom ChatGPT?</h2>
 </html>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gebruik van ChatGPT in het wiskundeonderwijs
+title: ChatGPT in het wiskundeonderwijs
 category: Onderwijs
 description: Dit project was uitgevoerd door Finn Dokter, Hu An en Barien Kanie onder de begeleiding van Sharon Calor van de universitaire lerarenopleiding. In dit project hebben de studenten een lesplan gemaakt voor de bovenbouw wiskunde B, als voorbereiding op de examens. Wij vonden differentiëren en integreren hier een goed onderwerp voor, omdat leerlingen daar al veel ervaring mee hebben op dit punt en omdat het een belangrijk onderdeel is op het examen.
 ---

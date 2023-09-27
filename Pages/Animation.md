@@ -25,7 +25,21 @@ voor het onderwijs. </p>
 <p></p>
 <h2> Burnside's Lemma</h2>
 
+Het lemma van Burnside, ook wel de telstelling van Burnside genoemd, of de baantellingsstelling, is een resultaat in de groepentheorie dat vaak nuttig is om rekening te houden met symmetrie bij het tellen van wiskundige objecten. Het resultaat is niet te danken aan Burnside zelf, die het alleen maar citeert in zijn boek 'On the Theory of Groups of Finite Order', en het in plaats daarvan aan Frobenius (1887) toeschrijft. Het lemma van Burnside telt "banen", wat hetzelfde is als het tellen van verschillende objecten, rekening houdend met een symmetrie. 
+
+Als je meer wilt lezen over de wiskunde achter dit lemma, of over groepentheorie dan verwijzen we jullie naar <a href="[url](https://en.wikipedia.org/wiki/Burnside%27s_lemma)">Wikipedia</a>.
+
 <p></p>
 <h2> Hoe ontwikkel je zo'n animatie?</h2>
+
+<p>De eerste stap is natuurlijk ervoor zorgen dat je het lemma of resultaat zelf goed begrijpt. Je moet vervolgens alles wat er in de video zal worden vertelt uitwerken. Je uitwerking kun je in een powerpoint presentatie maken bijvoorbeeld. In de presentatie loop je stap voor stap door het bewijs en probeer je al enkele methodes om dit te visualiseren. Dit is de powerpoint die je als basis zal gebruiken voor het script en de storyboard.</p>
+
+<p>De volgende stap is het maken van een <i>script</i> voor de video. Je moet beslissen wat je in de video wilt zeggen en hoe het gezegd zou worden. Voor elke dia van je powerpoint-uitwerking moet je concreet beschrijven wat er op die dia zal gebeuren, omdat deze presentatie al een ruwe schets gaf van hoe de video eruit zou gaan zien. Bij de eerste versie van het script merkten we meteen
+twee belangrijke dingen op. Ten eerste hadden we een schatting gemaakt van de benodigde spreektijd voor het inspreken van het script. </p>
+
+<p>Nadat we het script hadden gemaakt zijn we aan de slag gegaan met het storyboard. Een storyboard is een verzameling van plaatjes met een stukje tekst. Je maakt een plaatje van elke belangrijke beweging in je animatie en je schrijft naast dat plaatje het deel van het script op dat hierbij hoort. We hebben een storyboard gemaakt, omdat je hiermee een goede basis maakt voor de animatie. Dit zorgt ervoor dat degene die gaat animeren zelf niet meer hoeft na te denken over wat er moet gebeuren. Het enige wat je dan hoeft te doen is het vertalen van bewegingen op papier naar bewegingen op de computer. Toen we klaar waren met het maken van het storyboard zijn we gaan kijken naar welke animatiesoftware we zouden gaan gebruiken. Een extreem eenvoudig programma dat we kunnen gebruiken om de animatie nu te gaan maken is PowerPoint. Ook is het heel makkelijk om met PowerPoint tegelijk aan de animatie te werken. Hoewel we
+niet van plan waren om PowerPoint te gebruiken, bleek het toch erg geschikt te zijn voor het maken van een animatie.</p>
+
+<p>Parallel aan het proces van animeren hebben we de audio, in dit geval de voiceover, opgenomen. Een van de groepsgenoten had thuis professionele opnameapparatuur waar we de audio mee hebben ingesproken maar een microfoon van bijvoorbeeld een headset zou ook hebben gewerkt. Als software hebben we het programma Audacity gebruikt. Hierin is het makkelijk om audio te knippen en plakken en stukken opnieuw op te nemen.</p>
 </html>
 	 

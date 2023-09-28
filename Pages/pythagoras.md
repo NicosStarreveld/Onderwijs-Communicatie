@@ -9,7 +9,7 @@ description: In dit project hebben studenten Rafael Bakker, Robin van den Bergh,
 
 <p>Pythagoras is een wiskundetijdschrift dat als doel heeft jongeren kennis te laten maken met de leuke en uitdagende kanten van wiskunde. Daarvoor richt het zich voornamelijk tot leerlingen van het VWO en HAVO. Het is in 1961 opgericht als initief van de Nederlandse Onderwijscommissie voor Wiskunde. Ze hebben op dit moment een redactie van 11 personen en het tijdschrift verschijnt 6 keer per jaar.</p>
 
-<p>Volgens de redactie van Pythagoras lezen steeds minder middelbare scholieren Pythagoras is. Dit is een probleem omdat wij vinden dat in Pythagoras veel leuke en nuttige kanten van wiskunde worden belicht. Daarom heeft ons project 2 doelen:
+<p>Volgens de redactie van Pythagoras lezen steeds minder middelbare scholieren Pythagoras is. Dit is een probleem omdat wij vinden dat in Pythagoras veel leuke en nuttige kanten van wiskunde worden belicht. Daarom heeft ons project 2 doelen:</p>
 
 <ol>
   <li>leerlingen motiveren om creatief met wiskunde bezig te zijn;</li>

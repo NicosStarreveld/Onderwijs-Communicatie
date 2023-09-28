@@ -27,7 +27,7 @@ de vouwconstructie opgesteld.</p>
 <h2> Beoogde leerdoelen </h2>
 
 Hieronder is een omschrijving van elk van deze doelen:
-
+<p></p>
 <b>Verhoudingen begrijpen en toepassen:</b>
 
 <p>Voor middelbare scholieren zijn verhoudingen een lastig concept. Van Jacoliene hoorde wij dat de studenten soms niet snappen dat een verhouding iets relatiefs is, maar denken dat het met specifieke lengtes te maken heeft. Wij hebben daarom gekozen voor vouwen tijdens de les, omdat door dezelfde stappen te vouwen je altijd dezelfde verhoudingen terugkrijgt, ook al begin je met vierkanten van verschillende groottes. </p>

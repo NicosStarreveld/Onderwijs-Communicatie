@@ -3,6 +3,7 @@ layout: page
 title: Een wiskundeles voor slechtziendeleerlingen
 category: Onderwijs
 description: In samenwerking met Annemiek van Leendert en Koninklijke Visio hebben studenten Christine Lind, Luca van der Nooij, Lotte Paterek, en Finn Rijk,  een les ontwikkelend om het wiskundeonderwijs voor slechtziende leerlingen te verbeteren op het gebied van meetkunde. Door toch de leerlingen in contact te kunnen brengen met dit soort onderwijs, kunnen zij op een andere manier leren omgaan met problemen die voor velen ruimtelijk inzicht vergen. Zo kan iedereen met gelijke kansen de wiskunde in gaan.
+---
 
 <html>
 <p align="center">

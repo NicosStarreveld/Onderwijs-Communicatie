@@ -22,7 +22,9 @@ onderdeel van de les een motivatie gegeven waarom we het hebben toegevoegd. Bij 
 opdrachten als ze al eerder klaar zijn. Aan het einde van de les geven we de leerlingen de keuze om een uitdagendere opdracht te doen, of aan de slag te gaan met een origamimodel. Bij dit origamimodel komt ook weer de verhouding terug die we eerder hebben gevouwen, dus daarmee kunnen de leerlingen gelijk toepassen wat ze hebben geleerd. Voor dit origamimodel hebben we zelf een stappenplan voor
 de vouwconstructie opgesteld.</p>
 
-<p>Als een wiskundedocent dus beschikt over de docentenhandleiding, het opdrachtenblad en de origami constructie, kan de docent onze les geven.</p>
+<p>Als een wiskundedocent dus beschikt over de docentenhandleiding, het opdrachtenblad en de origami constructie, kan de docent onze les geven. De les duurt ongeveer 50 minuten en is geschikt voor de derde of vierde klas van HAVO en VWO.</p>
+
+<p><b>Alle materiaal is hier te vinden.</b></p>
 
 <h2> Beoogde leerdoelen </h2>
 
@@ -32,7 +34,7 @@ Hieronder is een omschrijving van elk van deze doelen:
 
 <p>Voor middelbare scholieren zijn verhoudingen een lastig concept. Van Jacoliene hoorde wij dat de studenten soms niet snappen dat een verhouding iets relatiefs is, maar denken dat het met specifieke lengtes te maken heeft. Wij hebben daarom gekozen voor vouwen tijdens de les, omdat door dezelfde stappen te vouwen je altijd dezelfde verhoudingen terugkrijgt, ook al begin je met vierkanten van verschillende groottes. </p>
   
-<b>Lijnvergelijkingen opstellen in een meetkundige context:</b>
+<b>Lijnvergelijkingen opstnellen i een meetkundige context:</b>
 
 <p>Hoewel het opstellen van lijnvergelijkingen wel wordt gedaan op de middelbare school, is dit vaak niet behandeld in een meetkundige context. Dit is echter wel een mooie manier om de lijnvergelijkingen te visualiseren. Door origami te gebruiken kunnen we een sterke link leggen tussen een lijnvergelijking en een meetkundig object, namelijk een lijn die zij hebben gevouwen. Dit is niet alleen een handige manier om meetkundige vraagstukken op te lossen, maar het is ook een toepassing van wiskunde in het echte leven.</p>
 

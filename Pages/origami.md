@@ -77,7 +77,7 @@ bepaald wiskundig probleem vaak inzicht geeft over hoe dit probleem kan worden o
 <div class="row">
 <div class="column">
   <p align="center">
-  <img src="/Onderwijs-Communicatie/Projecten/Origami/Evaluatie 3" width="340" height="180">
+  <img src="/Onderwijs-Communicatie/Projecten/Origami/Evaluatie 3.png" width="340" height="180">
 </p>
 </div>
   <div class="column">

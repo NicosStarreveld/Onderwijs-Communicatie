@@ -6,6 +6,17 @@ description: Dit project was uitgevoerd oor de wiskundestudenten Jolente Bleijs,
 ---
 
 <html>
+.column {
+  		float: left;
+  		width: 45%;
+		margin: 10px;
+		align: center
+	}
+	.row:after {
+  		content: "";
+  		display: table;
+  		clear: both;
+	}
 
 <p align="center">
   <img src="/Onderwijs-Communicatie/Images/Origami.jpg" width="640" height="480">

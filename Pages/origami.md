@@ -24,7 +24,7 @@ de vouwconstructie opgesteld.</p>
 
 <p>Als een wiskundedocent dus beschikt over de docentenhandleiding, het opdrachtenblad en de origami constructie, kan de docent onze les geven. De les duurt ongeveer 50 minuten en is geschikt voor de derde of vierde klas van HAVO en VWO.</p>
 
-<p><b>Alle materiaal is hier te vinden.</b></p>
+<div class="boxje">Alle materiaal is hier te vinden. Meer materiaal en informatie over wiskundigvouwen is te vinden op de <a href="https://wiskundigvouwen.nl/">site van Jacoliene van Wijk</a>.</div>
 
 <h2> Beoogde leerdoelen </h2>
 
@@ -42,5 +42,13 @@ Hieronder is een omschrijving van elk van deze doelen:
 
 <p>Om te vouwen aan de hand van origami diagrammen moet de leerling de stappen kunnen visualiseren. Leerlingen moeten de diagrammen analyseren, de vouwstappen identificeren en de ruimtelijke relaties tussen de verschillende onderdelen begrijpen. Hiermee trainen de leerlingen hun ruimtelijk inzicht. Ruimtelijk inzicht is erg belangrijk voor wiskunde, omdat het visueel voorstellen van een
 bepaald wiskundig probleem vaak inzicht geeft over hoe dit probleem kan worden opgelost.</p>
+
+<h2> Een evaluatie van de les</h2>
+
+<p>Op woensdag 19 april 2023 hebben we op het Goois lyceum deze les gegeven. Hierbij waren Jolente, Rowan, Jan, Jacoliene en de docent van de klas aanwezig. Hieronder een korte evaluatie van deze les.</p>
+
+<p>Het doel van onze les was om de leerlingen verhoudingen beter te laten begrijpen en ze daarnaast ook meer begrip te laten krijgen op het werken met lijn vergelijkingen. Het tweede is zeker gelukt: Tijdens het maken van de opdrachten merkten we dat de meeste leerlingen beter gingen inzien hoe je een lijnvergelijking opstelt. Bij sommigen moest dit nog wel een beetje worden opgefrist, maar uiteindelijk hadden we het idee dat iedereen dat snapte en in de evaluatieformulieren hebben veel ook aangegeven dat dit het belangrijkste was wat ze hebben geleerd. Het meer inzicht geven in verhoudingen is iets minder goed gegaan dan we hadden gehoopt. Eigenlijk hadden we hier iets meer tijd voor moeten nemen en we hadden beter voor elke verschillende grootte papier beter een andere kleur kunnen nemen.</p>
+
+<p> Hieronder geven we ook de reacties van de leerlingen op de evaluatie van het les.</p>
 
 </html>

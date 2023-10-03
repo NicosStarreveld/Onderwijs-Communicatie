@@ -19,14 +19,19 @@ mist, zal een wiskundige andere vaardigheden moeten benutten. Dit zou men niet m
 
 <h2> Leerdoelen en lesbeschrijving</h2>
 
-<p>In de eerste fase van het project hebben wij een lesplan voor de slechtziende leerlingen ontwikkeld. De focus van dit lesplan was driedimensionale meetkunde. Het ultieme doel van deze les was dat de leerlingen in staat zouden zijn om diverse fysieke driedimensionale figuren te identificeren aan de hand van eigenschappen zoals het aantal ribben of het aantal vlakken. Het lesplan begon met een korte uitleg over de definities van vlakken, ribben en hoekpunten. Deze uitleg werd gedaan met behulp van kubussen. Elke leerling kreeg hierbij een fysieke kubus, zodat zij een referentiekader hadden tijdens de uitleg. We hebben deze keuze gemaakt om de stof over te brengen op een manier die niet berust op zicht maar op tast, zodat het voor iedereen toegankelijk is. Ook is uit onderzoek
-gebleken dat zowel “tactile exploration” kan helpen bij het wiskunde onderwijs voor slechtzienden, evenals beweging van het object.</p>
+<p>In de eerste fase van het project hebben wij een lesplan voor de slechtziende leerlingen ontwikkeld. De focus van dit lesplan was driedimensionale meetkunde. Het ultieme doel van deze les was dat de leerlingen in staat zouden zijn om diverse fysieke driedimensionale figuren te identificeren aan de hand van eigenschappen zoals het aantal ribben of het aantal vlakken. Het lesplan begon met een korte uitleg over de definities van vlakken, ribben en hoekpunten. Deze uitleg werd gedaan met behulp van kubussen. Elke leerling kreeg hierbij een fysieke kubus, zodat zij een referentiekader hadden tijdens de uitleg. We hebben deze keuze gemaakt om de stof over te brengen op een manier die niet berust op zicht maar op tast, zodat het voor iedereen toegankelijk is. Ook is uit onderzoek gebleken dat zowel “tactile exploration” kan helpen bij het wiskunde onderwijs voor slechtzienden, evenals beweging van het object.</p>
 
 <p>Na de uitleg hebben de leerlingen de verschillende driedimensionale figuren fysiek ontvangen, samen met een werkblad waarop diverse vragen over de figuren en de eigenschappen stonden. Ook stond er op het werkblad een extra vraag over de formule van Euler, welke normaal gesproken niet in het curriculum behandeld wordt. Voor een overzicht van het werkblad, zie deze in de bijlage. Met dit werkblad konden de leerlingen in tweetallen op zelfstandige wijze aan de slag met de figuren. Deze keuze is gemaakt omdat wij samenwerken in de wiskunde erg belangrijk vinden en door het werkblad had iedereen de mogelijkheid om op zijn eigen tempo door de stof heen te gaan, dit was erg belangrijk omdat we op verschillende leerniveaus les gaven. Gedurende deze tijd liepen wij rond om vragen te beantwoorden, en om te controleren of het de leerlingen goed verliep. </p>
+
+<div class="boxje"> De lesplan en het werkblad zijn allebei <a href="/Onderwijs-Communicatie/Projecten/Slechtziendeleerlingen/Lesplan_Meetkunde.zip"> hier</a> te vinden. Deze zijn bedoeld voor een les van ongeveer 50 minuten over driedimensionale meetkundige objecten. </div>
 
 <p> Over het algemeen bleek dat het werkblad op goed niveau was voor de leerlingen. De leerlingen haalden soms de termen en definities door elkaar. Met wat hulp van onze kant was deze verwarring al snel verholpen. Ook werden de vragen niet altijd correct beantwoord. Zo werden er bijvoorbeeld veel rekenfouten gemaakt. </p>
 
 <p>Voor gevorderde leerlingen die op hoog tempo werkten hadden we bouwplaten van driedimensionale figuren voorbereid, als extra uitdaging. We hebben voor bouwplaten gekozen omdat deze goed aansluiten op de leerstof van wiskundige objecten, en ook meer verdieping bieden. De leerlingen konden deze bouwplaten zelf proberen in elkaar te zetten. Uiteindelijk waren de groepjes sneller dan verwacht en zijn ze allemaal aan de bouwplaten toegekomen. Sommige leerlingen hebben zelfs geprobeerd zelf zulke bouwplaten te creëren.</p>
+
+<p align="center">
+  <img src="/Onderwijs-Communicatie/Projecten/Slechtziendeleerlingen/Bouwplaten.jpg" width="640" height="480">
+</p>
 
 <h2> Een speurtocht op het Science Park</h2>
 
@@ -39,8 +44,16 @@ oriënteren en navigeren op onbekende plekken. Op vier vaste locaties van de spe
 
 <p>Bij het tweede spel moesten de leerlingen een cluster bollen in het vlak plaatsen, zodat het hele vlak gevuld zou worden. Zie figuur 2.2a voor een idee hoe dit er uit ziet. Ook was het mogelijk om met deze bollen in een kleiner vlak een driedimensionale piramide te bouwen. De keuze voor dit spel is gemaakt om op een creatieve manier het meetkundig beredeneren te bevorderen. De grootte van het spel is bewust gekozen zodat het samenwerken wordt aangemoedigd. De leerlingen waren vooral erg enthousiast over dit spel, en waren hier actief mee bezig. Alle groepen hebben minstens één vlak opgelost. Ook was er een groepje wie het lukte om de piramide op te lossen.</p>
 
+<p align="center">
+  <img src="/Onderwijs-Communicatie/Projecten/Slechtziendeleerlingen/Speurtocht.jpg" width="640" height="480">
+</p>
+
 <p>Voor het derde spel gebruikten we het spel Resolf, ter beschikking gesteld door de UvA, zie figuur 2.2b. De leerlingen moesten in
 de twee driehoeken, en in het vierkant, de getallen op laten tellen tot een zekere getallen. Deze keuze is gemaakt om op spelenderwijs te oefenen met optellen en redeneren. Ook bij dit spel hebben we voor een grote variant gekozen om samenwerken aan te moedigen. </p>
+
+<p align="center">
+  <img src="/Onderwijs-Communicatie/Projecten/Slechtziendeleerlingen/Resolf.jpg" width="640" height="480">
+</p>
 
 <p>Bij het laatste spel moesten de leerlingen met spaghetti en spekjes een kubus bouwen. Als dit lukte, kregen ze de taak om een zo
 hoog mogelijke toren te bouwen. Met deze opdracht wilden we onder andere een verband leggen met onze uitvoering van fase 1 van het project. Een probleem van deze opdracht was dat de spaghetti snel brak, en dat de spekjes erg plakkerig

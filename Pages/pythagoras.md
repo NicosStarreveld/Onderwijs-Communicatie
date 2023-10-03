@@ -4,7 +4,7 @@ title: Pythagoras in de klas
 category: Communicatie
 description: In dit project hebben studenten Rafael Bakker, Robin van den Bergh, en Leon Min, samen met Roosmarij Vanhommerig,  begeleidend materiaal ontwikkeld bij een artikel uit Pythagoras, zodat docenten dit in de klas kunnen gebruiken als onderdeel van hun wiskundeles. Hiervoor hebben ze 3 werkbladen met uitwerkingen en docentenhandleidingen gemaakt. Elk werkblad vult een les van ongeveer 45 minuten. 
 ---
-
+<html>
 <p align="center">
   <img src="/Onderwijs-Communicatie/Images/Pythagoras.jpg" width="640" height="480">
 </p>

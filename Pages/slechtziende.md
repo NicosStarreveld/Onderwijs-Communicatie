@@ -30,7 +30,7 @@ mist, zal een wiskundige andere vaardigheden moeten benutten. Dit zou men niet m
 <p>Voor gevorderde leerlingen die op hoog tempo werkten hadden we bouwplaten van driedimensionale figuren voorbereid, als extra uitdaging. We hebben voor bouwplaten gekozen omdat deze goed aansluiten op de leerstof van wiskundige objecten, en ook meer verdieping bieden. De leerlingen konden deze bouwplaten zelf proberen in elkaar te zetten. Uiteindelijk waren de groepjes sneller dan verwacht en zijn ze allemaal aan de bouwplaten toegekomen. Sommige leerlingen hebben zelfs geprobeerd zelf zulke bouwplaten te creëren.</p>
 
 <p align="center">
-  <img src="/Onderwijs-Communicatie/Projecten/Slechtziendeleerlingen/Bouwplaten.jpg" width="640" height="480">
+  <img src="/Onderwijs-Communicatie/Projecten/Slectziendeleerlingen/Bouwplaten.jpg" width="640" height="480">
 </p>
 
 <h2> Een speurtocht op het Science Park</h2>
@@ -45,14 +45,14 @@ oriënteren en navigeren op onbekende plekken. Op vier vaste locaties van de spe
 <p>Bij het tweede spel moesten de leerlingen een cluster bollen in het vlak plaatsen, zodat het hele vlak gevuld zou worden. Zie figuur 2.2a voor een idee hoe dit er uit ziet. Ook was het mogelijk om met deze bollen in een kleiner vlak een driedimensionale piramide te bouwen. De keuze voor dit spel is gemaakt om op een creatieve manier het meetkundig beredeneren te bevorderen. De grootte van het spel is bewust gekozen zodat het samenwerken wordt aangemoedigd. De leerlingen waren vooral erg enthousiast over dit spel, en waren hier actief mee bezig. Alle groepen hebben minstens één vlak opgelost. Ook was er een groepje wie het lukte om de piramide op te lossen.</p>
 
 <p align="center">
-  <img src="/Onderwijs-Communicatie/Projecten/Slechtziendeleerlingen/Speurtocht.jpg" width="640" height="480">
+  <img src="/Onderwijs-Communicatie/Projecten/Slectziendeleerlingen/Speurtocht.jpg" width="640" height="480">
 </p>
 
 <p>Voor het derde spel gebruikten we het spel Resolf, ter beschikking gesteld door de UvA, zie figuur 2.2b. De leerlingen moesten in
 de twee driehoeken, en in het vierkant, de getallen op laten tellen tot een zekere getallen. Deze keuze is gemaakt om op spelenderwijs te oefenen met optellen en redeneren. Ook bij dit spel hebben we voor een grote variant gekozen om samenwerken aan te moedigen. </p>
 
 <p align="center">
-  <img src="/Onderwijs-Communicatie/Projecten/Slechtziendeleerlingen/Resolf.jpg" width="640" height="480">
+  <img src="/Onderwijs-Communicatie/Projecten/Slectziendeleerlingen/Resolf.jpg" width="640" height="480">
 </p>
 
 <p>Bij het laatste spel moesten de leerlingen met spaghetti en spekjes een kubus bouwen. Als dit lukte, kregen ze de taak om een zo

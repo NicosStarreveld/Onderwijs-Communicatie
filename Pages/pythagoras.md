@@ -37,6 +37,8 @@ Pythagoras artikel te begrijpen.</li>
   
 <p>We hebben er rekening mee gehouden dat één werkblad gemaakt moet kunnen worden in één les, dus ongeveer 45 minuten. We hebben er dus voor gezorgd dat de werkbladen niet te lang zijn. Ook hebben we bij elk van de werkbladen een docentenhandleiding gemaakt, zodat elke docent onze les op een middelbare school zou kunnen geven. Ook hebben we voor de docenten een uitwerking van elk werkblad geschreven. </p>
 
+<div class="boxje">Alle materiaal (lesplannen, werkbladen, en uitwerkingen) is <a href="/Onderwijs-Communicatie/Projecten/Pythagoras/Materiaal.zip">hier</a> te vinden.</div>
+
 </html>
 
 

@@ -27,12 +27,12 @@ description: In dit project hebben studenten Ruben Heck, Hartog Jan Hartog, en I
 <div class="column">
 <p align="center">
   <img src="/Onderwijs-Communicatie/Projecten/NFI/Infographic Verbeterde Versie Ontwerp 1.jpg
-" width="640" height="480">
+" width="400" height="480">
 </p></div>
 <div class="column">
 <p align="center">
   <img src="/Onderwijs-Communicatie/Projecten/NFI/Infographic Verbeterde Versie Ontwerp 2.jpg
-" width="640" height="480">
+" width="400" height="480">
 </p></div>
 </div>
 

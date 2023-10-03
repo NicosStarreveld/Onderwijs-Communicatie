@@ -26,8 +26,9 @@ description: In dit project hebben studenten Thijs Borst, Vera van Hintum, en Ti
 
 <p>Een punt dat wij belangrijk vonden in het maken van onze lessen was dat er veel visueel materiaal voorbij moet komen. We wilden bijvoorbeeld meerdere opdrachten in de cursus opnemen waar een functie moest worden geschreven die een mooi plaatje genereert. De voordelen hiervan zijn dat het ten eerste een stuk leuker is om een plaatje als uitvoer te krijgen van een stuk code dan bijvoorbeeld een lijst getallen. Dit helpt de interesse te behouden en ook is het motiverend om door te gaan bij fouten om je plaatje correct te krijgen. Ten tweede is het ook een goede manier om fouten op te sporen, als je bijvoorbeeld een verticale lijn krijg waar je een horizontale verwacht dan weet je snel dat je de x en y coördinaten hebt omgewisseld, als je een getal bereken met een soortgelijke fout dan kan je al snel over de fout heen kijken. Ook wilden wij leerlingen helpen de structuur van stukjes code te begrijpen door ze gebruik te laten maken van het programma Python Tutor. Dit programma laat zien in welke volgorde de code wordt uitgevoerd en dit kan bijvoorbeeld veel inzicht geven in hoe dubbele for-loops werken. Hierom wilden we in de cursus ook de leerlingen aansporen van dit programma gebruik te maken.</p>
 
+<div class="boxje">Alle materiaal is <a href="/Onderwijs-Communicatie/Projecten/Python/Materiaal.zip">hier</a> te vinden.
 
-<h2> Leerdoelen en didactiek </h2>
+  <h2> Leerdoelen en didactiek </h2>
 
 <p>Het doel van ons project is dat de leerlingen de basis van Python leren. Onder de basis van Python verstaan wij:</p>
 <ul>

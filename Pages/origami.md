@@ -7,7 +7,7 @@ description: Dit project was uitgevoerd oor de wiskundestudenten Jolente Bleijs,
 
 <html>
 <p align="center">
-  <img src="/Onderwijs-Communicatie/Images/Origami.jpg" width="640" height="480">
+  <img src="/Onderwijs-Communicatie/Images/Origami2.jpg" width="640" height="480">
 </p>
 
 <h2> Origami in de wiskundeles</h2>

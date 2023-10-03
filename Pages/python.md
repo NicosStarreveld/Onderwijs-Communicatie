@@ -2,13 +2,15 @@
 layout: page
 title: Plezier met Python - Een reeks lessen voor leerlingen
 category: Onderwijs
-description: In dit project hebben studenten Tijs Borst, Vera van Hintum, en Tijs Wiegman samengewerkt met Jaap Goudriaan van het Stedelijk Gymnasium Leiden aan een reeks programmeerlessen voor leerlingen van VWO 3 t/m 5 (dit werd uiteindelijk een klasje van leerlingen uit 3 VWO en nog 2 uit 1 VWO). Met deze cursus wilden wij de basis van programmeren overbrengen aan de hand van leuke wiskundige opdrachten. 
+description: In dit project hebben studenten Thijs Borst, Vera van Hintum, en Tijs Wiegman samengewerkt met Jaap Goudriaan van het Stedelijk Gymnasium Leiden aan een reeks programmeerlessen voor leerlingen van VWO 3 t/m 5 (dit werd uiteindelijk een klasje van leerlingen uit 3 VWO en nog 2 uit 1 VWO). Met deze cursus wilden wij de basis van programmeren overbrengen aan de hand van leuke wiskundige opdrachten. 
 ---
 
 <html> 
 <p align="center">
   <img src="/Onderwijs-Communicatie/Images/Python.jpg" width="640" height="480">
 </p>
+
+<p><i>Door Thijs Borst, Vera van Hintum, en Tijs Wiegman</i></p>
 
 <h2> Programmeren in het voortgezet onderwijs?</h2>
 
@@ -20,8 +22,12 @@ description: In dit project hebben studenten Tijs Borst, Vera van Hintum, en Tij
 
 <h2> De lessen</h2>
 
-<p>Als programma hebben we Jupyter Notebook gekozen; dit is een interactieve omgeving waar je Python code kan schrijven en uitvoeren. Daarnaast kan je tussen de code door ook blokken tekst neerzetten in een net format. We hebben voor notebooks gekozen omdat we zelf ook op deze manier les hebben gehad en we vonden dat deze manier goed werkt om zelfstandig een les uit te werken. In deze notebooks worden stukken theorie afgewisseld met opdrachten en voorbeelden, zo is het erg duidelijk welk stuk theorie bij welke opdracht hoort en hoeft niet telkens geswitcht te worden tussen een bestand met de uitleg en opdrachten en een programma om code te schrijven.
-Een punt dat wij belangrijk vonden in het maken van onze lessen was dat er veel visueel materiaal voorbij moet komen. We wilden bijvoorbeeld meerdere opdrachten in de cursus opnemen waar een functie moest worden geschreven die een mooi plaatje genereert. De voordelen hiervan zijn dat het ten eerste een stuk leuker is om een plaatje als uitvoer te krijgen van een stuk code dan bijvoorbeeld een lijst getallen. Dit helpt de interesse te behouden en ook is het motiverend om door te gaan bij fouten om je plaatje correct te krijgen. Ten tweede is het ook een goede manier om fouten op te sporen, als je bijvoorbeeld een verticale lijn krijg waar je een horizontale verwacht dan weet je snel dat je de x en y coördinaten hebt omgewisseld, als je een getal bereken met een soortgelijke fout dan kan je al snel over de fout heen kijken. Ook wilden wij leerlingen helpen de structuur van stukjes code te begrijpen door ze gebruik te laten maken van het programma Python Tutor. Dit programma laat zien in welke volgorde de code wordt uitgevoerd en dit kan bijvoorbeeld veel inzicht geven in hoe dubbele for-loops werken. Hierom wilden we in de cursus ook de leerlingen aansporen van dit programma gebruik te maken.</p>
+<p>Als programma hebben we Jupyter Notebook gekozen; dit is een interactieve omgeving waar je Python code kan schrijven en uitvoeren. Daarnaast kan je tussen de code door ook blokken tekst neerzetten in een net format. We hebben voor notebooks gekozen omdat we zelf ook op deze manier les hebben gehad en we vonden dat deze manier goed werkt om zelfstandig een les uit te werken. In deze notebooks worden stukken theorie afgewisseld met opdrachten en voorbeelden, zo is het erg duidelijk welk stuk theorie bij welke opdracht hoort en hoeft niet telkens geswitcht te worden tussen een bestand met de uitleg en opdrachten en een programma om code te schrijven.</p>
+
+<p>Een punt dat wij belangrijk vonden in het maken van onze lessen was dat er veel visueel materiaal voorbij moet komen. We wilden bijvoorbeeld meerdere opdrachten in de cursus opnemen waar een functie moest worden geschreven die een mooi plaatje genereert. De voordelen hiervan zijn dat het ten eerste een stuk leuker is om een plaatje als uitvoer te krijgen van een stuk code dan bijvoorbeeld een lijst getallen. Dit helpt de interesse te behouden en ook is het motiverend om door te gaan bij fouten om je plaatje correct te krijgen. Ten tweede is het ook een goede manier om fouten op te sporen, als je bijvoorbeeld een verticale lijn krijg waar je een horizontale verwacht dan weet je snel dat je de x en y coördinaten hebt omgewisseld, als je een getal bereken met een soortgelijke fout dan kan je al snel over de fout heen kijken. Ook wilden wij leerlingen helpen de structuur van stukjes code te begrijpen door ze gebruik te laten maken van het programma Python Tutor. Dit programma laat zien in welke volgorde de code wordt uitgevoerd en dit kan bijvoorbeeld veel inzicht geven in hoe dubbele for-loops werken. Hierom wilden we in de cursus ook de leerlingen aansporen van dit programma gebruik te maken.</p>
+
+
+<h2> Leerdoelen en didactiek </h2>
 
 <p>Het doel van ons project is dat de leerlingen de basis van Python leren. Onder de basis van Python verstaan wij:</p>
 <ul>
@@ -45,8 +51,7 @@ Een punt dat wij belangrijk vonden in het maken van onze lessen was dat er veel 
 
 <p>Deze indeling van lessen vonden we zelf het meest logisch als we naar onze eigen ervaring met programmeren keken. In elk nieuw onderwerp wilden we de vorige onderwerpen weer aan bod laten komen om zo een stukje herhaling te hebben. Herhaling is zeer belangrijk bij het leren programmeren aangezien bijvoorbeeld lijsten en tuples telkens terug blijven komen bij het maken van functies of het plotten met matplotlib. Het was dus belangrijk om te zorgen dat de eerste lessen goed bleven hangen.  </p>
 
-<p>Voor de laatste les wilden we recursie behandelen, maar aangezien recursieve wiskunde al snel erg moeilijk kan worden en onze doelgroep 3 tot en met 5 VWO was, moesten we een manier vinden om dit uit te leggen zonder ingewikkelde wiskunde te gebruiken.
-Na wat brainstormen hebben we besloten voor de recursie een les te geven in Turtle. Turtle is een package in Python waarmee je kan tekenen. Het idee is dat je in een venster een “turtle” zie lopen, als een pen over papier, met alle instructies die gegeven zijn in de code. </p>
+<p>Voor de laatste les wilden we recursie behandelen, maar aangezien recursieve wiskunde al snel erg moeilijk kan worden en onze doelgroep 3 tot en met 5 VWO was, moesten we een manier vinden om dit uit te leggen zonder ingewikkelde wiskunde te gebruiken. Na wat brainstormen hebben we besloten voor de recursie een les te geven in Turtle. Turtle is een package in Python waarmee je kan tekenen. Het idee is dat je in een venster een “turtle” zie lopen, als een pen over papier, met alle instructies die gegeven zijn in de code. </p>
 
 <p>Met Turtle kunnen we nu tekenen en stap voor stap zien wat er getekend wordt, dit vonden wij een belangrijk aspect van de les over recursie. De leerlingen kunnen zo zien in welke volgorde een recursieve functie uitgevoerd wordt en wat er precies gebeurt bij recursie. Ook is het handig dat we bij een moeilijke les zoals recursie een duidelijk plaatje maken waardoor het redelijk eenvoudig is te zien waar fouten gemaakt worden. Met behulp van Turtle kunnen we er dan ook voor zorgen dat er een duidelijk vast implementatieschema voor de recursie ontstaat, dat duidelijk visueel wordt weergegeven wat de leerlingen ook helpt de recursie te begrijpen. </p>
 

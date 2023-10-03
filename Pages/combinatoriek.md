@@ -66,7 +66,7 @@ opnieuw de tekst hoeft te lezen als je het even niet meer weet. </li>
 <li>Welke formule is er nodig om het antwoord te vinden?</li>
 <li>Pas de formule toe en schrijf je antwoord op.</li>
 <li>Controleer of je daadwerkelijk antwoord geeft op de vraag. Deze stap is ontzettend
-belangrijk.</li>
+belangrijk.</li></ol>
 
 <p>Ook voor deze les hebben we een opgavenbundel samengesteld. Alle vragen voor deze bundel hebben we gehaald uit oude examens, zie Explicaro. Deze opgaven waren niet gesorteerd en hadden als doel dat de leerlingen gewend raakten aan de manier waarop de vragen in het examen worden gesteld. Het examen geeft vaak erg lange teksten en daar moeten ze mee leren werken. Tijdens de les hebben de leerlingen aan de examenopdrachten gewerkt en wij liepen rond om tips en uitleg te geven, dit deden we bijvoorbeeld
 door te verwijzen naar het stappenplan.</p>

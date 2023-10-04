@@ -2,7 +2,7 @@
 layout: page
 title: Gevarieerd tellen. Combinatoriek bij Wiskunde A
 category: Onderwijs
-description: Kees Peters, Lara Supardi, Sean Hubert en Jade Lindert waren uitgenodigd door de wiskunde docenten Marjolein Tourne en Maayke van der Kroft van het Coornhert Lyceum om examentraining te geven in de vorm van twee lessen. Deze lessen hebben ze zelf voorbereid en gegeven aan twee vwo klassen wiskunde A. Voor dit project zijn de studenten tweemaal naar het Coornhert Lyceum in Haarlem gegaan om examentraining te geven over combinatoriek aan leerlingen die in hun laatste jaar vwo zitten. Deze leerlingen maakten vorig jaar hun centraal eindexamens en het onderwerp combinatoriek was daar onderdeel van.
+description: Sean Hubert, Jade Lindert, Kees Peters, en Lara Supardi, waren uitgenodigd door de wiskunde docenten Marjolein Tourne en Maayke van der Kroft van het Coornhert Lyceum om examentraining te geven in de vorm van twee lessen. Deze lessen hebben ze zelf voorbereid en gegeven aan twee vwo klassen wiskunde A. Voor dit project zijn de studenten tweemaal naar het Coornhert Lyceum in Haarlem gegaan om examentraining te geven over combinatoriek aan leerlingen die in hun laatste jaar vwo zitten. Deze leerlingen maakten vorig jaar hun centraal eindexamens en het onderwerp combinatoriek was daar onderdeel van.
 ---
 
 <html>
@@ -10,7 +10,7 @@ description: Kees Peters, Lara Supardi, Sean Hubert en Jade Lindert waren uitgen
   <img src="/Onderwijs-Communicatie/Images/Combinatorics.png" width="640" height="480">
 </p>
 
-<p></p>
+<p><i>Door Sean Hubert, Jade Lindert, Kees Peters, en Lara Supardi.</i></p>
 <h2> Combinatoriek bij Wiskunde A</h2>
 
 <p>Naast ervoor zorgen dat de leerlingen hun eindexamen goed zouden afsluiten, heeft het leren van combinatoriek aan middelbare school leerlingen ook nog maatschappelijk belang. Dit project is voor wiskundedocenten ook relevant, want het materiaal wat we hebben
@@ -70,5 +70,7 @@ belangrijk.</li></ol>
 
 <p>Ook voor deze les hebben we een opgavenbundel samengesteld. Alle vragen voor deze bundel hebben we gehaald uit oude examens, zie Explicaro. Deze opgaven waren niet gesorteerd en hadden als doel dat de leerlingen gewend raakten aan de manier waarop de vragen in het examen worden gesteld. Het examen geeft vaak erg lange teksten en daar moeten ze mee leren werken. Tijdens de les hebben de leerlingen aan de examenopdrachten gewerkt en wij liepen rond om tips en uitleg te geven, dit deden we bijvoorbeeld
 door te verwijzen naar het stappenplan.</p>
+
+<div class="boxje"> Alle materiaal voor de twee lessen is <a href="/Onderwijs-Communicatie/Projecten/Combinatoriek/Materiaal.zip"> hier</a> te vinden.</div>
 
 </html>

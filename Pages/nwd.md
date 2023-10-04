@@ -9,6 +9,18 @@ description: Studenten Koen van Baar, Wiebe Hoving, en Hamza Yusuf hebben twee l
 <p align="center">
   <img src="/Onderwijs-Communicatie/Images/Polytopes.png" width="640" height="480">
 </p>
+<p><i>Door Koen van Baar, Wiebe Hoving, en Hamza Yusuf.</i></p>
+
+<h2> De Stelling van Descartes: een minder bekend juweltje</h2>
+<p></p>
+
+<p>Als we meetkundeles krijgen dan leren we veel resultaten over meetkundige contructies in twee dimensies. We leren dat de som van de hoeken van een driehoek altijd gelijk is aan 180 graden, maar ook hoe we de som van alle hoeken in een regelmatige veelhoek kunnen bepalen. We werken tevens minder met objecten in drie dimensies. Een resultaat dat we vaak leren op school is de formule van Euler voor convexe veelvlakken, namelijk dat H-R+F = 2. De stelling van Descartes is een juweltje uit de meetkunde die minder bekend is, het gaat over de hoeken van veelvlakken en luidt als volgt:</p>
+
+<div class = "boxje">Als we de defecten van hoeken van verschillende veelvlakken bij elkaar optellen, blijken we telkens weer 720 graden te krijgen. Dit is een verrassend resultaat. Het blijkt dat voor elk veelvlak dat convex is, het totale defect van de hoeken gelijk is aan 720 graden. Convex betekent dat een lijn tussen twee punten op het veelvlak altijd in het veelvlak zelf zit. Dit houdt in dat het veelvlak geen indeukingen of gaten mag hebben. Het feit dat elk convex veelvlak een totaal hoektekort van 720 graden heeft, wordt ook wel de stelling van Descartes genoemd. In de volgende opgaves zal je de stelling zelf bewijzen.</div>
+
+<p>In dit project hebben we twee boekjes gemaakt over de stelling van Euler en de stelling van Descartes. Deze zijn bedoeld voor leerlingen maar ook docenten die een les willen geven over meetkunde in drie dimensies.</p>
+
+<div class="boxje"> De twee lesboekjes zijn <a href="/Onderwijs-Communicatie/Projecten/NWD/Materiaal.zip">hier</a> te vinden. Het eerste gaat over de formule van Euler voor veelvlakken, het tweede over de stelling van Descartes.</div>
 
 <h2> Leerdoelen boekjes</h2>
 

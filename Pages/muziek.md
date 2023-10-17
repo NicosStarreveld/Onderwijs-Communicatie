@@ -25,5 +25,5 @@ over Lie algebra’s.</p>
 maar ook niet triviale structuur heeft. Om symmetrie¨en uit te leggen, beginnen we eerst met de dagelijkse definitie van symmetrie, de spiegelsymmetrie. Vervolgens veralgemeniseren we het concept van symmetrie naar transformaties die een object invariant houdt. Door symmetrie op deze manier te formuleren kunnen we rotaties ook classificeren als een soort symmetrie.
 We maken vervolgens duidelijk dat de genoemde transformaties (spiegelen, roteren, en ook het niets doen) groepselementen zijn. Ten slotte laten we de belangrijkste eigenschap van een groep zien: de combinaties van groepselementen zijn weer groepselementen.</p>
 
-<div class="boxje"> </div>
+<div class="boxje"> Het boekje we hebben gemaakt is <a href="/Onderwijs-Communicatie/Projecten/Muziek/BookletLieGroups.pdf"> hier </a> te vinden.</div>
 

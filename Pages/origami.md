@@ -16,10 +16,12 @@ description: Dit project was uitgevoerd oor de wiskundestudenten Jolente Bleijs,
 <p>We hebben ervoor gekozen om een les te ontwikkelen waarbij een beter begrip wordt gecreëerd voor verhoudingen. Dit wordt door veel middelbare scholieren namelijk als een abstract concept gezien (Bruin-Muurling, 2010). Verhoudingen zijn een relatief concept en hebben in principe niets te maken met absolute lengte. Dit hebben we in onze les duidelijk gemaakt door de leerlingen dezelfde verhoudingen te laten vouwen met een bepaalde constructie, waarbij de leerlingen papier van verschillende grootten hadden. Vervolgens hebben we de leerlingen in de les laten bewijzen dat deze constructie ook daadwerkelijk de verhouding geeft die wij ze hadden verteld dat de constructie oplevert.</p>
 
 <p>
-Voor deze les hebben we verschillende eindproducten ontwikkeld. </p>
+Voor deze les hebben we verschillende eindproducten (allemaal beschikbaar hieronder) ontwikkeld. </p>
 <ol>  
 <li>Ten eerste, en als belangrijkste, hebben we een <b>docentenhandleiding </b> gemaakt. Hierin staat de hele les, van begin tot eind, in detail beschreven, zodat de les ook reproduceerbaar is door andere docenten. Bij deze handleiding zit ook een inleiding waarin context wordt gegeven aan de les. In de handleiding wordt per onderdeel van de les een motivatie gegeven waarom we het hebben toegevoegd. </li>
-<li></li>Bij de les, zoals wij die hebben ontwikkeld, hoort ook een opdrachtenblad. Hier kunnen de leerlingen op een bepaald moment in de les zelfstandig of samen aan werken, zodat de docent genoeg tijd heeft om bij iedereen langs te gaan. Een voordeel van dit opdrachtenblad is dat de leerlingen door kunnen gaan naar moeilijkere opdrachten als ze al eerder klaar zijn.</li> 
+  <p></p>
+<li>Bij de les, zoals wij die hebben ontwikkeld, hoort ook een opdrachtenblad. Hier kunnen de leerlingen op een bepaald moment in de les zelfstandig of samen aan werken, zodat de docent genoeg tijd heeft om bij iedereen langs te gaan. Een voordeel van dit opdrachtenblad is dat de leerlingen door kunnen gaan naar moeilijkere opdrachten als ze al eerder klaar zijn.</li> 
+  <p></p>
 <li>Aan het einde van de les geven we de leerlingen de keuze om een uitdagendere opdracht te doen, of aan de slag te gaan met een origamimodel. Bij dit origamimodel komt ook weer de verhouding terug die we eerder hebben gevouwen, dus daarmee kunnen de leerlingen gelijk toepassen wat ze hebben geleerd. Voor dit origamimodel hebben we zelf een stappenplan voor de vouwconstructie opgesteld.</li></ol>
 
 <p>Als een wiskundedocent dus beschikt over de docentenhandleiding, het opdrachtenblad en de origami constructie, kan de docent onze les geven. De les duurt ongeveer 50 minuten en is geschikt voor de derde of vierde klas van HAVO en VWO.</p>
@@ -34,7 +36,7 @@ Hieronder is een omschrijving van de beoogde leerdoelen van deze les:
 
 <p>Voor middelbare scholieren zijn verhoudingen een lastig concept. Van Jacoliene hoorde wij dat de studenten soms niet snappen dat een verhouding iets relatiefs is, maar denken dat het met specifieke lengtes te maken heeft. Wij hebben daarom gekozen voor vouwen tijdens de les, omdat door dezelfde stappen te vouwen je altijd dezelfde verhoudingen terugkrijgt, ook al begin je met vierkanten van verschillende groottes. </p>
   
-<b>Lijnvergelijkingen opstnellen in een meetkundige context</b>
+<b>Lijnvergelijkingen opstellen in een meetkundige context</b>
 
 <p>Hoewel het opstellen van lijnvergelijkingen wel wordt gedaan op de middelbare school, is dit vaak niet behandeld in een meetkundige context. Dit is echter wel een mooie manier om de lijnvergelijkingen te visualiseren. Door origami te gebruiken kunnen we een sterke link leggen tussen een lijnvergelijking en een meetkundig object, namelijk een lijn die zij hebben gevouwen. Dit is niet alleen een handige manier om meetkundige vraagstukken op te lossen, maar het is ook een toepassing van wiskunde in het echte leven.</p>
 

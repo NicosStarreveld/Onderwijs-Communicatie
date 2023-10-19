@@ -21,6 +21,8 @@ Veul.</p>
 <p>Wij hebben een vervanging gemaakt voor deze module, waarin de behandelde theorie voor de statistiek en ICT beter op elkaar aansluiten. Bovendien leren de leerlingen vaardigheden met betrekking tot Google spreadsheets die voor latere
 projecten ook toegepast kunnen worden. Alle benodigde voorkennis wordt zorgvuldig behandeld in de syllabus en door gebruik te maken van duidelijke voorbeelden wordt er meer inzicht verstrekt in het toepassen van de stof. Hierdoor is er ook ruimte voor uitdagende opgaven die de toepassingen van de stof belichten.</p>
 
+<div class="boxje"> Alle materiaal is <a href="/Onderwijs-Communicatie/Projecten/Statistiek/Materiaal.zip">hier</a> te vinden. We bieden een syllabus met extra theorie en verduidelijkheden, en nog een boekje over ICT vaardigheden.</div>
+
 <h2> Moderne Wiskunde</h2>
 
 <p>‘Moderne wiskunde’ bevat twee hoofdstukken over statistiek en ICT die in 4 havo worden behandeld. Dit zijn de hoofdstukken, ‘Statistische vraagstellingen’ en ‘Statistische verwerking met ICT’. Onze eerste indruk was dat grootste probleem stamde uit de digitale omgeving van Noordhoff. Wij wilden een vervanging maken voor enkel dit gedeelte in de
@@ -40,6 +42,6 @@ syllabus een aftekenlijst, waarin ze opdrachten kunnen wegkruisen als ze deze he
 <p>Deze opdrachten bevatten een stappenplan om de opdracht uit te voeren, maar gevorderde leerlingen kunnen het ook zelf proberen. Deze methode zorgt er hopelijk voor dat de opdrachten toegankelijker worden, omdat de leerling van tevoren
 geen theorie hoeft door te nemen. Hierdoor is er ook de mogelijkheid om de opdrachten uitdagender te maken. Als de opdracht te moeilijk is, kunnen de leerlingen kiezen om het stappenplan te volgen. Wij hopen dat de module uiteindelijk leerlingen stimuleert om actief mee te doen aan de lessen, waardoor er meer interactie komt tussen de leerlingen over dit onderwerp. Daarnaast willen wij graag dat de angst voor wiskunde en statistiek afneemt onder de leerlingen. Daarom hebben wij gekozen voor toegankelijke opgaven en vragen wij de leerlingen regelmatig om een contextuele uitleg in plaats van enkel een berekening, met als doel dat leerlingen kritischer gaan kijken naar het gebruik van statistiek in de media, omdat dit vaak fout wordt gedaan.</p>
 
-<div class="boxje"> Alle materiaal is <a href="/Onderwijs-Communicatie/Projecten/Statistiek/Materiaal.zip">hier</a> te vinden. We bieden een syllabus met extra theorie en verduidelijkheden, en nog een boekje over ICT vaardigheden.</div>
+
 
 </html>

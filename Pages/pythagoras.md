@@ -2,7 +2,7 @@
 layout: page
 title: Pythagoras in de klas
 category: Communicatie
-description: In dit project hebben studenten Rafael Bakker, Robin van den Bergh, en Leon Min, samen met Roosmarij Vanhommerig,  begeleidend materiaal ontwikkeld bij een artikel uit Pythagoras, zodat docenten dit in de klas kunnen gebruiken als onderdeel van hun wiskundeles. Hiervoor hebben ze 3 werkbladen met uitwerkingen en docentenhandleidingen gemaakt. Elk werkblad vult een les van ongeveer 45 minuten. 
+description: In dit project hebben studenten Rafaël Bakker, Robin van den Bergh, en Leon Min, samen met Roosmarij Vanhommerig,  begeleidend materiaal ontwikkeld bij een artikel uit Pythagoras, zodat docenten dit in de klas kunnen gebruiken als onderdeel van hun wiskundeles. Hiervoor hebben ze 3 werkbladen met uitwerkingen en docentenhandleidingen gemaakt. Elk werkblad vult een les van ongeveer 45 minuten. 
 ---
 <html>
 <p align="center">
@@ -12,14 +12,13 @@ description: In dit project hebben studenten Rafael Bakker, Robin van den Bergh,
 <p><i> Door Rafael Bakker, Robin van den Bergh, en Leon Min. </i></p>
 <h2> Pythagoras</h2>
 
-<p><a href="https://www.pyth.eu/over-ons">Pythagoras</a> is een wiskundetijdschrift dat als doel heeft jongeren kennis te laten maken met de leuke en uitdagende kanten van wiskunde. Daarvoor richt het zich voornamelijk tot leerlingen van het VWO en HAVO. Het is in 1961 opgericht als initief van de Nederlandse Onderwijscommissie voor Wiskunde. Ze hebben op dit moment een redactie van 11 personen en het tijdschrift verschijnt 6 keer per jaar.</p>
+<p><a href="https://www.pyth.eu/over-ons">Pythagoras</a> is een wiskundetijdschrift dat als doel heeft jongeren kennis te laten maken met de leuke en uitdagende kanten van wiskunde. Daarvoor richt het zich voornamelijk tot leerlingen van het VWO en HAVO. Het is in 1961 opgericht als initiatief van de Nederlandse Onderwijscommissie voor Wiskunde. Ze hebben op dit moment een redactie van 11 personen en het tijdschrift verschijnt 6 keer per jaar.</p>
 
-<p>Volgens de redactie van Pythagoras lezen steeds minder middelbare scholieren Pythagoras. Dit is heel erg jammer omdat wij vinden dat in Pythagoras veel leuke en nuttige kanten van wiskunde worden belicht. Ons project heeft twee hoofddoelen:</p>
+<p>Volgens de redactie lezen steeds minder middelbare scholieren Pythagoras. Dit is heel erg jammer omdat wij vinden dat in Pythagoras veel leuke en nuttige kanten van wiskunde worden belicht. Ons project heeft twee hoofddoelen:</p>
 
 <ol>
   <li>leerlingen motiveren om creatief met wiskunde bezig te zijn;</li>
-  <li>ervoor zorgen dat leerlingen na het meedoen aan ons product genoeg kennis hebben om het
-Pythagoras artikel te begrijpen.</li>
+  <li>artikelen van Pythagoras te didactiseren om gebruikt te worden in de wiskundeles.</li>
 </ol>
 
 <p>Hiermee is het belang van ons project ook duidelijk: we willen middelbare scholieren die geïnteresseerd zijn in wiskunde in aanraking laten komen met Pythagoras. Het is belangrijk om aan deze leerlingen te laten zien dat er meer wiskunde is dan je wiskundeboek op school. Hiermee laat je ook zien hoe wiskunde toegepast kan worden en dat het ook leuk kan zijn om wiskunde te doen. Wij vinden het heel belangrijk dat ook de leuke kanten van de wiskunde worden belicht. Hiermee kun je namelijk de creativiteit van de leerlingen stimuleren.</p>

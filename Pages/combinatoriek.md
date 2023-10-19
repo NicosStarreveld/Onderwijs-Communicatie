@@ -13,35 +13,30 @@ description: Sean Hubert, Jade Lindert, Kees Peters, en Lara Supardi, waren uitg
 <p><i>Door Sean Hubert, Jade Lindert, Kees Peters, en Lara Supardi.</i></p>
 <h2> Combinatoriek bij Wiskunde A</h2>
 
-<p>Naast ervoor zorgen dat de leerlingen hun eindexamen goed zouden afsluiten, heeft het leren van combinatoriek aan middelbare school leerlingen ook nog maatschappelijk belang. Dit project is voor wiskundedocenten ook relevant, want het materiaal wat we hebben
-gemaakt voor de leerlingen om mee te werken in de lessen is een duidelijk overzicht van de stof en een goede collectie opgaven voor het onderwerp combinatoriek. De docenten kunnen dit voor toekomstige examenklassen wiskunde A gebruiken. Dit scheelt voor hen
-voorbereiding van de lessen. </p>
+<p>Met dit project willen we graag leerlingen ondersteunen om hun eindexamens Wiskunde A zo goed mogelijk af te maken. Hiernaast is dit project ook voor wiskundedocenten relevant, want het materiaal wat we hebben gemaakt voor de leerlingen om mee te werken in de lessen geeft een duidelijk overzicht van de stof en een goede collectie opgaven voor het onderwerp combinatoriek. De docenten kunnen dit voor toekomstige examenklassen wiskunde A gebruiken. Dit scheelt voor hen voorbereiding van de lessen. </p>
 
-<p>Een onderzoek over het effect van het leren van combinatorisch redeneren aan middelbare scholieren wijst ook uit dat dit nuttig kan zijn, zie Stofflett and Baker (1992). Significante vooruitgang in combinatorisch redeneren werd gevonden bij de leerlingen in
-de getrainde groepen vergeleken met de ongetrainde groep. Ook wekte het leren van nieuwe concepten in andere b`etavakken minder frustratie op. De ongetrainde groep liet geen verbetering van combinatorisch redeneren zien, wat doet vermoeden dat leerlingen
-dit niet zonder training en instructie leren.</p>
+<p>Naast ervoor zorgen dat de leerlingen hun eindexamen goed zouden afsluiten, heeft het leren van combinatoriek aan middelbare school leerlingen ook nog maatschappelijk belang. Een onderzoek over het effect van het leren van combinatorisch redeneren aan middelbare scholieren wijst uit dat dit nuttig kan zijn, zie Stofflett and Baker (1992). Significante vooruitgang in combinatorisch redeneren werd gevonden bij de leerlingen in de getrainde groepen vergeleken met de ongetrainde groep. Ook wekte het leren van nieuwe concepten in andere bètavakken minder frustratie op. De ongetrainde groep liet geen verbetering van combinatorisch redeneren zien, wat doet vermoeden dat leerlingen dit niet zonder training en instructie leren.</p>
 
-<p> Bij de relevantie van combinatoriek in het eindexamen hoort niet alleen de theoretische stof, maar ook de manier van het vragen stellen. Bij een eindexamen wiskunde A is namelijk één van de moeilijkheden om de lange teksten goed te begrijpen. Eigenlijk
-is het maken van dit soort vragen dus ook begrijpend lezen. Dit is natuurlijk in het dagelijks leven heel nuttig. Hoe vaak moeten we wel niet een lange tekst lezen, waar waarschijnlijk maar een beperkte hoeveelheid nuttige informatie in staat? De nuttige informatie van de niet nuttige informatie onderscheiden, wordt dus ook getraind door het wiskunde A eindexamen. Je zou je natuurlijk wel kunnen afvragen in hoeverre er nog wiskunde wordt getoetst bij dit soort vragen.</p>
+<p> Bij de relevantie van combinatoriek in het eindexamen hoort niet alleen de theoretische stof, maar ook de manier van het vragen stellen. Bij een eindexamen wiskunde A is namelijk één van de moeilijkheden om de lange teksten goed te begrijpen. Eigenlijk is het maken van dit soort vragen dus ook begrijpend lezen. Dit is natuurlijk in het dagelijks leven heel nuttig. Hoe vaak moeten we wel niet een lange tekst lezen, waar waarschijnlijk maar een beperkte hoeveelheid nuttige informatie in staat? De nuttige informatie van de niet nuttige informatie onderscheiden, wordt dus ook getraind door het wiskunde A eindexamen. Je zou je natuurlijk wel kunnen afvragen in hoeverre er nog wiskunde wordt getoetst bij dit soort vragen.</p>
 
 <h2> Leerdoelen</h2>
 
 <p>De soorten problemen in het wiskunde A programma kunnen ingedeeld worden in 4 onderwerpen, namelijk:</p>
 <ol><li>permutatie;</li>
 <li>variatie;</li>
-<li>herhalingsvariatie</li>
+<li>herhalingsvariatie;</li>
 <li>combinatie. </li></ol>
 
-<p>Het doel was om deze leerlingen beter voor te bereiden op de examenvragen die tot de combinatoriek behoren. We wilden de vier onderwerpen gebruiken om structuur en duidelijkheid te geven aan de leerlingen zodat ze deze beter van elkaar konden onderscheiden.
-Elk van deze onderwerpen heeft namelijk zijn eigen strategieën en formules.</p>
+<p>Het doel was om deze leerlingen beter voor te bereiden op de examenvragen die tot de combinatoriek behoren. We wilden de vier onderwerpen gebruiken om structuur en duidelijkheid te geven aan de leerlingen zodat ze deze beter van elkaar konden onderscheiden. Elk van deze onderwerpen heeft namelijk zijn eigen strategieën en formules.</p>
 
-<p>Voor het opstellen van ons projectplan hebben we een gesprek met onze opdrachtgevers gehad. Zij hebben aangegeven dat de leerlingen moeite hadden om bij een vraag in te zien welke oplosmethode er nodig was. Dat leerlingen hier moeite mee hebben, blijkt
-ook uit onderzoek zoals wordt beschreven in Lockwood and Gibson (2016). Daarnaast zagen wij dat er in examenvragen ontzettend veel tekst staat. Wij vonden het belangrijk dat je eerst het probleem concreet kan maken voordat je het gaat oplossen. Om dit allemaal op een rij te hebben, hebben wij de volgende leerdoelen geformuleerd:</p>
+<p>Voor het opstellen van ons projectplan hebben we een gesprek met Maaike en Marjolein gehad. Zij hebben aangegeven dat de leerlingen moeite hadden om bij een vraag in te zien welke oplosmethode er nodig was. Dat leerlingen hier moeite mee hebben, blijkt ook uit onderzoek zoals wordt beschreven in Lockwood and Gibson (2016). Daarnaast zagen wij dat er in examenvragen ontzettend veel tekst staat. Wij vonden het belangrijk dat je eerst het probleem concreet kan maken voordat je het gaat oplossen. Om dit allemaal op een rij te hebben, hebben wij de volgende leerdoelen geformuleerd:</p>
 
-<ol><li>De leerling krijgt begrip voor de volgende concepten: permutatie, variatie, herhalingsvariatie
-en combinatie. Een leerling heeft begrip van een concept wanneer de leerling weet welke formule daarbij
+<ol><li>De leerling begrijpt de volgende concepten: <i>permutatie, variatie, herhalingsvariatie</i>
+en <i>combinatie</i>. Een leerling heeft begrip van een concept wanneer de leerling weet welke formule daarbij
 hoort en de formule op de juiste manier kan gebruiken.</li>
+  
 <li>De leerling kan een probleem classificeren aan de hand van de genoemde concepten. Een leerling kan uit de context van de vraag halen en aan signaalwoorden herkennen welk concept bij de vraag hoort. </li>
+
 <li>De leerling kan een probleem waar veel tekst in staat, ontleden tot een concreet probleem. In een examenopgave staat vaak veel overbodige tekst waardoor in sommige gevallen verhult wordt wat de vraag concreet is.</li></ol>
 
 <h2> Didactiek, lesplan en materiaal</h2>
@@ -68,9 +63,8 @@ opnieuw de tekst hoeft te lezen als je het even niet meer weet. </li>
 <li>Controleer of je daadwerkelijk antwoord geeft op de vraag. Deze stap is ontzettend
 belangrijk.</li></ol>
 
-<p>Ook voor deze les hebben we een opgavenbundel samengesteld. Alle vragen voor deze bundel hebben we gehaald uit oude examens, zie Explicaro. Deze opgaven waren niet gesorteerd en hadden als doel dat de leerlingen gewend raakten aan de manier waarop de vragen in het examen worden gesteld. Het examen geeft vaak erg lange teksten en daar moeten ze mee leren werken. Tijdens de les hebben de leerlingen aan de examenopdrachten gewerkt en wij liepen rond om tips en uitleg te geven, dit deden we bijvoorbeeld
-door te verwijzen naar het stappenplan.</p>
+<p>Ook voor deze les hebben we een opgavenbundel samengesteld. Alle vragen voor deze bundel hebben we gehaald uit oude examens, zie Explicaro. Deze opgaven waren niet gesorteerd en hadden als doel dat de leerlingen gewend raakten aan de manier waarop de vragen in het examen worden gesteld. Het examen geeft vaak erg lange teksten en daar moeten ze mee leren werken. Tijdens de les hebben de leerlingen aan de examenopdrachten gewerkt en wij liepen rond om tips en uitleg te geven, dit deden we bijvoorbeeld door te verwijzen naar het stappenplan.</p>
 
-<div class="boxje"> Alle materiaal voor de twee lessen is <a href="/Onderwijs-Communicatie/Projecten/Combinatoriek/Materiaal.zip"> hier</a> te vinden.</div>
+<div class="boxje"> Alle materiaal voor de twee lessen is <a href="/Onderwijs-Communicatie/Projecten/Combinatoriek/Materiaal.zip"> hier</a> te vinden. In dit mapje staan slides voor twee korte herhalingen van de stof en nog opgavenbundels.</div>
 
 </html>

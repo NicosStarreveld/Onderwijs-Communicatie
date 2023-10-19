@@ -56,5 +56,34 @@ description: In dit project hebben studenten Thijs Borst, Vera van Hintum, en Ti
 
 <p>Met Turtle kunnen we nu tekenen en stap voor stap zien wat er getekend wordt, dit vonden wij een belangrijk aspect van de les over recursie. De leerlingen kunnen zo zien in welke volgorde een recursieve functie uitgevoerd wordt en wat er precies gebeurt bij recursie. Ook is het handig dat we bij een moeilijke les zoals recursie een duidelijk plaatje maken waardoor het redelijk eenvoudig is te zien waar fouten gemaakt worden. Met behulp van Turtle kunnen we er dan ook voor zorgen dat er een duidelijk vast implementatieschema voor de recursie ontstaat, dat duidelijk visueel wordt weergegeven wat de leerlingen ook helpt de recursie te begrijpen. </p>
 
+<h2> Python en Jupyter Installeren </h2>
+
+<b>Distribution Platform</b>
+
+<p>Op deze pagina geven we een overzicht van de software we gaan gebruiken in dit vak, namelijk Anaconda, Spyder en JupyterNotebook. Nadat je deze pagina gelezen hebt kun je door gaan met het installeren van Anaconda. Als je Anaconda geïnstalleerd hebt dan kun je Spyder en JupyterNotebook gaan uitproberen.  </p>
+
+<b>Anaconda</b>
+<p>Anaconda is een distributie van de programmeertalen Python en R voor wetenschappelijk computergebruik (data science, machine learning-toepassingen, grootschalige gegevensverwerking, voorspellende analyses, enz.), die tot doel hebben het pakketbeheer en de implementatie te vereenvoudigen. Deel van de Anaconda-distributie is de Anaconda Navigator: een desktop grafische gebruikersinterface (GUI) waarmee gebruikers applicaties kunnen starten en <a href="https://en.wikipedia.org/wiki/Conda_(package_manager)">conda pakketten</a> eenvoudig kunnen beheren. Voor een uitgebreide beschrijving van de werking van Anaconda Navigator verwijzen we jullie naar <a href="https://docs.anaconda.com/anaconda/navigator/">diens documentatie</a>.</p>
+
+<b>Installatie van Anaconda</b>
+
+<p>Wij gebruiken bij deze cursus standaard de Anaconda distributie van Continuum Analytics omdat we dan automatisch alle benodigde pakketten op de computer geïnstalleerd krijgen, deze gemakkelijk up to date kunnen brengen en houden, en we een handige werkomgeving krijgen waarbinnen we alles kunnen doen. Voer de volgende installatiestappen uit</p>
+
+<ol><li>Download Anaconda 2021.05 van www.anaconda.com. Kies de Python 3.9 of 3.8 versie 64-bit installer. Dit kan even duren want je download een bestand van 631 MB. Voor de installatie van de omgeving heb je 3 GB schijfruimte op je computer nodig. Dubbelklik op het .exe bestand (Windows) of het .pkg bestand (macOS) en accepteer in principe alle standaardopties (behalve de latere optie voor installatie van VisualStudio).</li>
+
+<li>Werk vervolgens de distributie bij: open een prompt-venster of terminal (open op Windows Anaconda Prompt) en tik in dit venster het volgende in <b>conda update conda</b>, <b>conda update anaconda</b>,  <b>conda update --pref C:\Anaconda3 anaconda-navigator</b>. Het laatste commando gaat er van uit dat je Anaconda geïnstalleerd hebt op de C:\Anaconda3 locatie.  Als je het geïnstalleerd hebt op je gebruikersplek op jouw computer en je gebruikt Windows dan moet je waarschijnlijk het volgende invullen <b>conda update --pref C:Users\gebruikersnaam\Anaconda3 anaconda-navigator</b>. Op macOS zal dit weer een andere locatie zijn. Indien je de map niet kan vinden kunnen we je bij het eerste werkcollege helpen. Probeer wel de volgende stappen al uit te voeren.</li></ol>
+
+
+<p> Op de wiskundeopleiding van de UvA gebruiken we Spyder en Jupyter.</p>
+
+<b>Spyder</b>
+<p>Om een Python-programma te schrijven heb je een editor nodig. Het handigst is om er een te gebruiken die speciaal hiervoor ontwikkeld is en die ook het testen van het programma ondersteunt. We spreken dan van een Integrated Development Environment (IDE). De IDE die bij installatie van Anaconda meekomt is Spyder.</p>
+
+<b>JupyterNotebook</b>
+<p>Een Jupyter notebook is een omgeving in je browser waarin je teksten, grafieken en Python-opdrachten samen in één document kunt plaatsen en dat als interactieve webpagina kan gebruiken. </p>
+
+
+
+
 </html>
 

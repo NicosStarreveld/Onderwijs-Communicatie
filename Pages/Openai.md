@@ -7,7 +7,7 @@ description: Dit project was uitgevoerd door Finn Dokter, Hu An en Barien Kanie 
 
 <html>
 <p align="center">
-  <img src="/Onderwijs-Communicatie/Images/OpenAI.png" width="640" height="480">
+  <img src="/Onderwijs-Communicatie/Images/ChatGPT.png" width="840" height="480">
 </p>
 
 <p><i>Door Finn Dokter, Barien Kanie, en Hu An Tan.</i></p>

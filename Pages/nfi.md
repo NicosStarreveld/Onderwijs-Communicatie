@@ -7,7 +7,7 @@ description: In dit project hebben studenten Ruben Heck, Hartog Jan Hartog, en I
 
 <html> 
 <p align="center">
-  <img src="/Onderwijs-Communicatie/Images/NFI.png" width="640" height="480">
+  <img src="/Onderwijs-Communicatie/Images/NFI.png" width="640" height="280">
 </p>
 <p><i>Door Ruben Heck, Hartog Jan Hartog, en Ijsbrand Meeter.</i></p>
 

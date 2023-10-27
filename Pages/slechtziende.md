@@ -12,8 +12,7 @@ description: In samenwerking met Annemiek van Leendert en Koninklijke Visio hebb
 <p><i> Door Christine Lind, Luca van der Nooij, Lotte Paterek, en Finn Rijk</i></p>
   
 <h2> Naar een inclusief onderwijs </h2>
-<p>Als wiskundigen berusten we vaak op ons vermogen om concepten te visualiseren. Door middel van visualisaties kunnen we informatie makkelijker opslaan en manipuleren, zonder dat dit rigoureus opgeschreven hoeft te worden. In colleges bijvoorbeeld worden meetkundige objecten en transformaties vaak duidelijk gemaakt door middel van visualisaties. Wanneer dit inbeeldingsvermogen
-mist, zal een wiskundige andere vaardigheden moeten benutten. Dit zou men niet moeten beperken als wiskundigen. Integendeel, deze andere, abstracte, manier van denken zou voordelig kunnen zijn, en zou gestimuleerd moeten worden.</p>
+<p>Als wiskundigen berusten we vaak op ons vermogen om concepten te visualiseren. Door middel van visualisaties kunnen we informatie makkelijker opslaan en manipuleren, zonder dat dit rigoureus opgeschreven hoeft te worden. In colleges bijvoorbeeld worden meetkundige objecten en transformaties vaak duidelijk gemaakt door middel van visualisaties. Wanneer dit inbeeldingsvermogen mist, zal een wiskundige andere vaardigheden moeten benutten. Dit zou men niet moeten beperken als wiskundigen. Integendeel, deze andere, abstracte, manier van denken zou voordelig kunnen zijn, en zou gestimuleerd moeten worden.</p>
 
 <p>Toch blijkt dat de generatie slechtziende leerlingen tegenwoordig beperkt wordt in hun wiskundeonderwijs, zeker op gebieden waar ruimtelijk inzicht ter sprake komt. Zo zou het hoofdstuk over meetkunde vaak overgeslagen worden bij slechtzienden op het reguliere middelbare onderwijs. Dit gebrek in het wiskundeonderwijs zou verbeterd moeten worden. </p>
 
@@ -23,7 +22,7 @@ mist, zal een wiskundige andere vaardigheden moeten benutten. Dit zou men niet m
 
 <p>Na de uitleg hebben de leerlingen de verschillende driedimensionale figuren fysiek ontvangen, samen met een werkblad waarop diverse vragen over de figuren en de eigenschappen stonden. Ook stond er op het werkblad een extra vraag over de formule van Euler, welke normaal gesproken niet in het curriculum behandeld wordt. Voor een overzicht van het werkblad, zie het blauw kadertje hieronder. Met dit werkblad konden de leerlingen in tweetallen op zelfstandige wijze aan de slag met de figuren. Deze keuze is gemaakt omdat wij samenwerken in de wiskunde erg belangrijk vinden en door het werkblad had iedereen de mogelijkheid om op zijn eigen tempo door de stof heen te gaan, dit was erg belangrijk omdat we op verschillende leerniveaus les gaven. Gedurende deze tijd liepen wij rond om vragen te beantwoorden, en om te controleren of het de leerlingen goed verliep. </p>
 
-<div class="boxje"> De lesplan en het werkblad zijn allebei <a href="/Onderwijs-Communicatie/Projecten/Slechtziendeleerlingen/Lesplan_Meetkunde.zip"> hier</a> te vinden. Deze zijn bedoeld voor een les van ongeveer 50 minuten over driedimensionale meetkundige objecten. </div>
+<div class="boxje"> De lesplan en het werkblad zijn allebei <a href="/Onderwijs-Communicatie/Projecten/Slectziendeleerlingen/Lesplan_Meetkunde.zip"> hier</a> te vinden. Deze zijn bedoeld voor een les van ongeveer 50 minuten over driedimensionale meetkundige objecten. </div>
 
 <p> Over het algemeen bleek dat het werkblad op goed niveau was voor de leerlingen. De leerlingen haalden soms de termen en definities door elkaar. Met wat hulp van onze kant was deze verwarring al snel verholpen. Ook werden de vragen niet altijd correct beantwoord. Zo werden er bijvoorbeeld rekenfouten gemaakt. </p>
 

@@ -19,6 +19,8 @@ description: Sean Hubert, Jade Lindert, Kees Peters, en Lara Supardi, waren uitg
 
 <p> Bij de relevantie van combinatoriek in het eindexamen hoort niet alleen de theoretische stof, maar ook de manier van het vragen stellen. Bij een eindexamen wiskunde A is namelijk één van de moeilijkheden om de lange teksten goed te begrijpen. Eigenlijk is het maken van dit soort vragen dus ook begrijpend lezen. Dit is natuurlijk in het dagelijks leven heel nuttig. Hoe vaak moeten we wel niet een lange tekst lezen, waar waarschijnlijk maar een beperkte hoeveelheid nuttige informatie in staat? De nuttige informatie van de niet nuttige informatie onderscheiden, wordt dus ook getraind door het wiskunde A eindexamen. Je zou je natuurlijk wel kunnen afvragen in hoeverre er nog wiskunde wordt getoetst bij dit soort vragen.</p>
 
+<div class="boxje"> Alle materiaal voor de twee lessen is <a href="/Onderwijs-Communicatie/Projecten/Combinatoriek/Materiaal.zip"> hier</a> te vinden. In dit mapje staan slides voor twee korte herhalingen van de stof en nog opgavenbundels.</div>
+
 <h2> Leerdoelen</h2>
 
 <p>De soorten problemen in het wiskunde A programma kunnen ingedeeld worden in 4 onderwerpen, namelijk:</p>
@@ -65,6 +67,6 @@ belangrijk.</li></ol>
 
 <p>Ook voor deze les hebben we een opgavenbundel samengesteld. Alle vragen voor deze bundel hebben we gehaald uit oude examens, zie Explicaro. Deze opgaven waren niet gesorteerd en hadden als doel dat de leerlingen gewend raakten aan de manier waarop de vragen in het examen worden gesteld. Het examen geeft vaak erg lange teksten en daar moeten ze mee leren werken. Tijdens de les hebben de leerlingen aan de examenopdrachten gewerkt en wij liepen rond om tips en uitleg te geven, dit deden we bijvoorbeeld door te verwijzen naar het stappenplan.</p>
 
-<div class="boxje"> Alle materiaal voor de twee lessen is <a href="/Onderwijs-Communicatie/Projecten/Combinatoriek/Materiaal.zip"> hier</a> te vinden. In dit mapje staan slides voor twee korte herhalingen van de stof en nog opgavenbundels.</div>
+
 
 </html>

@@ -2,7 +2,7 @@
 layout: page
 title: Cirkelbeddekingen in hogere dimensies
 category: Communicatie
-description: Nathan de Bruin, Terry Hoekstra Luna Lof, en Nancy Ntawumenyumunsi hebben een presentatie ontwikkeld over het werk van Maryna Viazovska, die het Fieldsmedaille heeft gewonnen in 2022. De presentatie focust vooral op het sphere packing problem. De studenten hebben deze presentatie gegeven tijdens de opening van IMAGINARY in Amsterdam op 12 mei 2022. Op 12 mei word de Internationale Dag van Vrouwen in de Wiskunde gevierd, en deze leek ons een mooie gelegenheid om het werk van Maryna Viazovska te presenteren aan de bezoekers van IMAGINARY. 
+description: Nathan de Bruin, Terry Hoekstra Luna Lof, en Nancy Ntawumenyumunsi hebben een presentatie ontwikkeld over het werk van Maryna Viazovska, die het Fieldsmedaille heeft gewonnen in 2022. De presentatie focust vooral op het sphere packing problem. De studenten hebben deze presentatie gegeven tijdens de opening van IMAGINARY in Amsterdam op 12 mei 2022. Op 12 mei word de Internationale Dag van Vrouwen in de Wiskunde gevierd, en was een mooie gelegenheid om het werk van Maryna Viazovska te presenteren aan de bezoekers van IMAGINARY. 
 ---
 
 <html>
@@ -13,13 +13,15 @@ description: Nathan de Bruin, Terry Hoekstra Luna Lof, en Nancy Ntawumenyumunsi 
 <p><i>Door Nathan de Bruin, Terry Hoekstra Luna Lof, en Nancy Ntawumenyumunsi.</i></p>
 
 <p>Voor veel mensen die geen wiskunde studeren of er niet mee bezig zijn is het moeilijk voor te stellen wat een wiskundige doet - de gemiddelde persoon op straat zal je vertellen dat ze, als ze denken aan een wiskundige, alleen denken aan iemand die de hele dag sommetjes zit uit te rekenen. Wiskunde wordt ook gezien als een saai, statisch vakgebied waar geen
-onderzoek wordt gedaan: vandaar dat de vraag redelijk vaak is ‘ga je docent hiermee worden?’. <a href="https://www.imaginarymaths.nl/index.html">Tentoostelling IMAGINARY</a> hoopt de mooie kant van wiskunde te laten zien, vandaar het motto ‘kracht van de wiskunde’, en hiermee mensen te bereiken en te betrekken in de wiskunde. Tijdens de voorstelling van IMAGINARY zijn hiervoor veel grafische beelden en posters van recente onderzoeken en ontdekkingen verwerkt.</p>
+onderzoek wordt gedaan. Dit vinden we heel erg jammer, met deze presentatie willen we laten zien dat wiskunde een bruisend vakgebied is waarin heel spannende dingen worden gedaan! <a href="https://www.imaginarymaths.nl/index.html">Tentoostelling IMAGINARY</a> heeft als doel de mooie kant van wiskunde te laten zien, vandaar het motto ‘kracht en pracht van de wiskunde’, en hiermee mensen te bereiken en te betrekken in de wiskunde. Tijdens de voorstelling van IMAGINARY zijn hiervoor veel grafische beelden en posters van recente onderzoeken en ontdekkingen verwerkt.</p>
 
+<br>
 <p align="center">
-  <img src="/Onderwijs-Communicatie/Images/Poster.jpg" width="640" height="480">
+  <img src="/Onderwijs-Communicatie/Images/Poster.jpg" width="640" height="780">
 </p>
-<i>Een poster gemaakt door Claudia Flandoli voor IMAGINARY in Amsterdam.</i>
+<p><i>Een poster gemaakt door Claudia Flandoli voor IMAGINARY in Amsterdam.</i></p>
 
+<br>
 <h3> IMAGINARY</h3>
 
 <p>Deze nieuwe <a href="https://www.imaginarymaths.nl/index.html">IMAGINARY tentoonstelling</a> in Nederland werd georganiseerd door Platform Wiskunde Nederland in samenwerking met Nederlandse universiteiten en ondersteund door partnerorganisaties. De tentoonstelling liep gelijktijdig in Vlaanderen, waar het Platform Wiskunde Vlaanderen de drijvende kracht was. De tentoonstelling omvatte talrijke posters, een reeks 3D-objecten, puzzelopstellingen en meerdere interactieve apps waar bezoekers mee aan de slag konden gaan via grote touchscreens. Wiskunde: verrassend divers, aansprekend mooi en verbluffende toepassingen!</p>

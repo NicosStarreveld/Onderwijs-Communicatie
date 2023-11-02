@@ -28,26 +28,25 @@ onderzoek wordt gedaan. Dit vinden we heel erg jammer, met deze presentatie will
 
 <h3> Internationale Dag van Vrouwen in de Wiskunde</h3>
 
-We lezen op <a href="https://may12.womeninmaths.org/why">de website van mei 12</a>:
+<p>We lezen op <a href="https://may12.womeninmaths.org/why">de website van mei 12</a>:</p>
 
 <p>12 mei 1977 is de geboortedatum van Maryam Mirzakhani.</p>
 
-<p><b></b>Wie is Maryam Mirzakhani?</b></p>
+<p><b>Wie is Maryam Mirzakhani?</b></p>
 
-<p>Maryam Mirzakhani was een Iraanse wiskundige en hoogleraar wiskunde aan Stanford University. Ze was een van 's werelds toonaangevende experts op het gebied van geometrie en dynamische systemen. Haar mooie en verbazingwekkende resultaten en haar leven en carrière zijn een inspiratie voor iedereen, vrouwen en mannen, om hun dromen in de wetenschap na te streven. Ze stierf tragisch aan kanker in 2017 op 40-jarige leeftijd.</p>
+<p>Maryam Mirzakhani was een Iraanse wiskundige en hoogleraar wiskunde aan Stanford University. Ze was een van 's werelds toonaangevende experts op het gebied van meetkunde en dynamische systemen. Haar mooie en verbazingwekkende resultaten en haar leven en carrière zijn een inspiratie voor iedereen, vrouwen en mannen, om hun dromen in de wetenschap na te streven. Ze stierf tragisch aan kanker in 2017 op 40-jarige leeftijd.</p>
 
-<p>In 2014 ontving Maryam Mirzakhani de Fields Medal voor haar uitmuntende bijdragen aan de dynamiek en geometrie van Riemann-oppervlakken en hun moduliruimten, waarmee ze de eerste vrouw en de eerste Iraniër werd die door deze wiskundige topprijs werd erkend voor haar wiskundige prestaties. In de weinige interviews die ze gaf, sprak Mirzakhani welsprekend over de schoonheid van wiskunde en haar vreugde daarin.</p>
+<p>In 2014 ontving Maryam Mirzakhani de Fields Medal voor haar uitmuntende bijdragen aan de dynamiek en meetkunde van Riemann-oppervlakken en hun moduliruimten, waarmee ze de eerste vrouw en de eerste Iraniër werd die door deze wiskundige topprijs werd erkend voor haar wiskundige prestaties. In de weinige interviews die ze gaf, sprak Mirzakhani welsprekend over de schoonheid van wiskunde en haar vreugde daarin.</p>
 
 <p>12 mei, haar verjaardag, werd gekozen om Vrouwen in de Wiskunde te vieren ter nagedachtenis aan haar.</p>
 
 <p><b>Hoe werd 12 mei geïnitieerd?</b></p>
 
-<p>Op 31 juli 2018 presenteerde het Vrouwencomité van de Iraanse Mathematical Society in Rio de Janeiro aan de deelnemers van de World Meeting for Women in Mathematics (WM) een voorstel om de verjaardag van Maryam Mirzakhani – 12 mei – te erkennen en te ondersteunen vier vrouwen in de wiskunde. Dit werd goedgekeurd door een grote meerderheid van (WM) deelnemers en er werd besloten om het initiatief te verspreiden.</p>
+<p>Op 31 juli 2018 presenteerde het Vrouwencomité van de Iraanse Mathematical Society in Rio de Janeiro aan de deelnemers van de World Meeting for Women in Mathematics (WM) een voorstel om de verjaardag van Maryam Mirzakhani – 12 mei – te erkennen om vrouwen in de wiskunde te vieren. Dit werd goedgekeurd door een grote meerderheid van (WM) deelnemers en er werd besloten om het initiatief te verspreiden.</p>
 
 <h3> Het sphere packing problem</h3>
 
-<p><a href = "https://en.wikipedia.org/wiki/Sphere_packing">Het sphere packing probleem</a> vraagt wat de optimale manier is om n-dimensionale bollen te stapelen in een n-dimensionale ruimte. Dit is alleen opgelost in de dimensies 1,2, 3, 8 en 24
-dimensies. In de presentatie hebben we de eerste drie dimensies zorgvuldig uitgelegd. Deze dimensies zijn namelijk makkelijk te begrijpen en uit te beelden, waarmee we het probleem makkelijk in kunnen leiden, zodat we daarna de stap naar abstractie van 8 en 24 dimensies kunnen maken. Daarnaast konden we grafische tekeningen maken van de dimensies 1 en 2 en konden we fysieke ballen gebruiken voor dimensie 3. </p>
+<p><a href = "https://en.wikipedia.org/wiki/Sphere_packing">Het sphere packing probleem</a> vraagt wat de optimale manier is om n-dimensionale bollen te stapelen in een n-dimensionale ruimte. Dit is alleen opgelost in de dimensies 1,2, 3, 8 en 24. In de presentatie hebben we de eerste drie dimensies zorgvuldig uitgelegd. Deze dimensies zijn namelijk makkelijk te begrijpen en uit te beelden, waarmee we het probleem makkelijk in kunnen leiden, zodat we daarna de stap naar abstractie van 8 en 24 dimensies kunnen maken. Daarnaast konden we grafische tekeningen maken van de dimensies 1 en 2 en konden we fysieke ballen gebruiken voor dimensie 3. </p>
 
 <p>In de tweede dimensie zijn de hoofdrolspelers eenheid cirkels op het oneindig vlak. In deze dimensie valt het probleem goed te visualiseren met behulp van illustraties. We stelden twee verschillende roosters voor, waarvan één van de twee de ideale opstelling is: de hexagonale opstelling. We vroegen aan het publiek om een gok te wagen over welke de ideale opstelling was, en hun intuïtie te geven hierover. Verder is het bewijs in twee dimensies vrij makkelijk te geven met middelbare-school-niveau voorkennis, en is deze met minimale wiskundige notatie gegeven, om zo een algemeen publiek een voorstelling te kunnen geven van wat een bewijs inhoudt voor wiskundigen.</p>
 

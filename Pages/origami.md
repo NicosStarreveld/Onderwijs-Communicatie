@@ -26,7 +26,7 @@ Voor deze les hebben we verschillende eindproducten (allemaal beschikbaar hieron
 
 <p>Als een wiskundedocent dus beschikt over de docentenhandleiding, het opdrachtenblad en de origami constructie, kan de docent onze les geven. De les duurt ongeveer 50 minuten en is geschikt voor de derde of vierde klas van HAVO en VWO.</p>
 
-<div class="boxje">Alle materiaal is <a href="https://wiskundigvouwen.nl/verhoudingen/">hier</a> te vinden, op de <a href="https://wiskundigvouwen.nl/">site van Jacoliene van Wijk</a> over wiskundig vouwen.</div>
+<div class="boxje">Alle materiaal is <a href="https://wiskundigvouwen.nl/verhoudingen/">hier</a> te vinden, op de <a href="https://wiskundigvouwen.nl/" target="_blank">site van Jacoliene van Wijk</a> over wiskundig vouwen.</div>
 
 <h2> Beoogde leerdoelen </h2>
 

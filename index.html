@@ -6,131 +6,101 @@
     <title>UvA - Onderwijs en Communicatie</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
-   	body {
-            font-family: 'Roboto', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f7f7f7;
-        }
-	.box {
-		border-radius: 20px;
-		padding: 10px;
-		font-size: 120%;
-		background-color: #eef;
-	}
-	.boxje {
-		border-radius: 20px;
-		padding: 10px;
-		font-size: 100%;
-		background-color: #eef;
-	}
-	.imagebox{
-		width: 45%;
-		margin-left: 80px;
-		align: center
-	}	
-	.titleBanner {
-		background-color: #fff;
-		text-align: center;
-		font-size:150%;
-		grid-area: titleBanner;
-	}
+    body {
+        font-family: 'Roboto', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f7f7f7;
+        line-height: 1.6; /* Improved readability */
+    }
+
+    .wrapper {
+        background-color: #fff;
+        padding: 20px;
+        margin: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added box shadow for depth */
+    }
+
+    .titleBanner {
+        background-color: #296082; /* Changed title banner color for better contrast */
+        color: #fff;
+        text-align: center;
+        font-size: 2rem;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 10px;
+    }
+
+    .box {
+        background-color: #eef;
+        padding: 20px;
+        font-size: 1.1rem; /* Increased font size for better readability */
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+
+    .centerField {
+        text-align: center; /* Improved alignment */
+    }
+
+    @media screen and (min-width: 600px) {
         .wrapper {
-            background-color: #fff;
+            padding: 40px;
         }
-	.centerField{
-		background-color: #fff;
-		grid-area: centerField;
-	}
-	.centerBox {
-		background-color: #fff;
-		grid-area: centerBox;
-	}
-	.column {
-  		float: left;
-  		width: 45%;
-		margin: 10px;
-		align: center
-	}
-	.row:after {
-  		content: "";
-  		display: table;
-  		clear: both;
-	}
-	@supports (display: grid) {
-            @media screen and (min-width: 600px) {
-            .centerBox {
-                        display: grid;
-		    	grid-gap: 25px;
-		    	grid-template-columns: 1fr 2fr;
-            }
-            }
-            @media screen and (min-width: 1000px) {
-                .wrapper {
-                    display: grid;
-                    grid-gap: 25px;
-                    grid-template-columns: 1fr 1000px 1fr;
-                    grid-template-areas:
-                    ". titleBanner . "
-                    ". centerField .";
-                    background-color: #fff;
-                    color: #444;
-                }
-            }
-	}
-        h3 {
-         margin: 30px;
-         display: inline-block;
-	 border-radius: 20px;
+        .box {
+            font-size: 1.2rem;
         }
-        button {
-            float: right;
-            background-color: #296082;
-            border: none;
-            color: white;
-            padding: 15px 32px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 16px;
-            margin: 4px 2px;
-            border-radius: 30px;
-            cursor: pointer;
-            -webkit-transition-duration: 0.4s; /* Safari */
-            transition-duration: 0.4s;
+    }
+
+    @media screen and (min-width: 1000px) {
+        .wrapper {
+            display: grid;
+            grid-gap: 20px;
+            grid-template-columns: 1fr 2fr;
+            grid-template-areas:
+                "titleBanner titleBanner"
+                "centerField centerField";
         }
+    }
 
-        .button2:hover {
-            box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-        }
+    h1, h3 {
+        margin: 0 0 20px 0; /* Added margin-bottom for better spacing */
+    }
 
+    button {
+        background-color: #296082;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 30px;
+        cursor: pointer;
+        transition: background-color 0.3s ease; /* Improved button transition */
+    }
 
-   </style>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-VW19F5HS9P"></script>
-	<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
+    button:hover {
+        background-color: #1e466c; /* Darkened button color on hover */
+    }
 
-	gtag('config', 'G-VW19F5HS9P');
-	</script>
-    <meta charset="utf-8">
+    </style>
 </head>
- <body style="font-family:Roboto">
-	<div class="wrapper">
-            <div class="titleBanner" style="color: #296082 ">
-            <h1>Projecten van studenten </h1>
+<body>
 
-            </div>
+<div class="wrapper">
+    <div class="titleBanner">
+        <h1>Projecten van studenten</h1>
+    </div>
 
-            <div class="centerField">
-                <div class="box">
-                Hieronder kunnen jullie alle projecten vinden waar studenten aan gewerkt hebben tijdens het vak Onderwijs en Communicatie. Alle materiaal mag hergebruikt worden voor onderwijs gerelateerde activiteiten
-		maar we vragen jullie om de betreffende studenten te noemen. 
-                </div>
-	    </div>
-	</div>
+    <div class="centerField">
+        <div class="box">
+            <h3>Hieronder kunnen jullie alle projecten vinden waar studenten aan gewerkt hebben tijdens het vak Onderwijs en Communicatie. Alle materiaal mag hergebruikt worden voor onderwijs gerelateerde activiteiten maar we vragen jullie om de betreffende studenten te noemen.</h3>
+        </div>
+    </div>
+</div>
 	 <div class="row">
 		 <div class="column">
 			 <h2 style="background-color: #eef;"> Wiskundeonderwijs </h2>

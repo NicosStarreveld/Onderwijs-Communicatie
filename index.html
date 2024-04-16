@@ -36,7 +36,7 @@
         background-color: #296082; /* Changed title banner color for better contrast */
         color: #fff;
         text-align: center;
-        font-size: 0.5rem;
+        font-size: 1.0rem;
         padding: 20px;
         margin-bottom: 2px;
         border-radius: 1px;
@@ -65,6 +65,34 @@
   		display: table;
   		clear: both;
 	}
+
+     .toc {
+        text-align: left;
+        margin: 0 auto;
+        max-width: 600px;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 10px;
+    }
+    .toc-title {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+    }
+    .toc-list {
+        list-style-type: none;
+        padding: 0;
+    }
+    .toc-list-item {
+        margin-bottom: 5px;
+    }
+    .toc-list-item a {
+        color: #296082;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .toc-list-item a:hover {
+        text-decoration: underline;
+    }
 
     @media screen and (min-width: 600px) {
         .wrapper {
@@ -126,11 +154,39 @@
         </div>
     </div>
 </div>
+	<div class="toc">
+            <h2 class="toc-title">Inhoudsopgave</h2>
+            <ul class="toc-list">
+                <!-- JavaScript will populate this list -->
+            </ul>
+        </div>
+    </div>
+
+    <!-- JavaScript to generate the table of contents -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var tocList = document.querySelector(".toc-list");
+            var headings = document.querySelectorAll("h3");
+
+            headings.forEach(function(heading, index) {
+                var listItem = document.createElement("li");
+                var anchor = document.createElement("a");
+                anchor.textContent = heading.textContent;
+                anchor.setAttribute("href", "#section" + (index + 1));
+                listItem.classList.add("toc-list-item");
+                anchor.classList.add("toc-list-item-link");
+                listItem.appendChild(anchor);
+                tocList.appendChild(listItem);
+            });
+        });
+    </script>
+	
 	 <div class="row">
 		 <div class="column">
 			 <div class = "chapterBanner">
 			 <h2> Wiskundeonderwijs </h2>
 			 </div>
+			 <br>
 			 <div class = "row">
 				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/origami/" target="_blank">
 			 <h3 style="background-color: #eef;"> Wiskunde met origami </h3></a>
@@ -159,6 +215,7 @@
 			 <div class = "chapterBanner">
 			 <h2 > Communicatie van de Wiskunde </h2>
 			 </div>
+			 <br>
 			 <div class = "row">
 				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/Animation/" target="_blank">
 					 <h3 style="background-color: #eef;"> Een animatie over Burnside's Lemma</h3>

@@ -44,6 +44,18 @@
         text-align: center; /* Improved alignment */
     }
 
+    .column {
+  	float: left;
+  	width: 45%;
+	margin: 10px;
+	align: center
+	}
+	.row:after {
+  		content: "";
+  		display: table;
+  		clear: both;
+	}
+
     @media screen and (min-width: 600px) {
         .wrapper {
             padding: 40px;

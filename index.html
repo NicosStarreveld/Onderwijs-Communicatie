@@ -1,76 +1,65 @@
 <!DOCTYPE html>
 <html>
 <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
-<head>
-    <title>UvA - Onderwijs en Communicatie</title>
+  <head>
+      <title>UvA - Onderwijs en Communicatie</title>
     <style>
-        body {
-            margin: 40px;
-        }
-
-        .box {
-            border-radius: 20px;
-            padding: 10px;
-            font-size: 120%;
-            background-color: #eef;
-        }
-
-        .boxje {
-            border-radius: 20px;
-            padding: 10px;
-            font-size: 100%;
-            background-color: #eef;
-        }
-
-        .imagebox {
-            width: 45%;
-            margin-left: 80px;
-            align: center
-        }
-
-        .titleBanner {
-            background-color: #fff;
-            text-align: center;
-            font-size: 150%;
-            grid-area: titleBanner;
-        }
-
+   	body {
+		margin: 40px;
+	}
+	.box {
+		border-radius: 20px;
+		padding: 10px;
+		font-size: 120%;
+		background-color: #eef;
+	}
+	.boxje {
+		border-radius: 20px;
+		padding: 10px;
+		font-size: 100%;
+		background-color: #eef;
+	}
+	.imagebox{
+		width: 45%;
+		margin-left: 80px;
+		align: center
+	}	
+	.titleBanner {
+		background-color: #fff;
+		text-align: center;
+		font-size:150%;
+		grid-area: titleBanner;
+	}
         .wrapper {
             background-color: #fff;
         }
-
-        .centerField {
-            background-color: #fff;
-            grid-area: centerField;
-        }
-
-        .centerBox {
-            background-color: #fff;
-            grid-area: centerBox;
-        }
-
-        .column {
-            float: left;
-            width: 45%;
-            margin: 10px;
-            align: center
-        }
-
-        .row:after {
-            content: "";
-            display: table;
-            clear: both;
-        }
-
-        @supports (display: grid) {
+	.centerField{
+		background-color: #fff;
+		grid-area: centerField;
+	}
+	.centerBox {
+		background-color: #fff;
+		grid-area: centerBox;
+	}
+	.column {
+  		float: left;
+  		width: 45%;
+		margin: 10px;
+		align: center
+	}
+	.row:after {
+  		content: "";
+  		display: table;
+  		clear: both;
+	}
+	@supports (display: grid) {
             @media screen and (min-width: 600px) {
-                .centerBox {
-                    display: grid;
-                    grid-gap: 25px;
-                    grid-template-columns: 1fr 2fr;
-                }
+            .centerBox {
+                        display: grid;
+		    	grid-gap: 25px;
+		    	grid-template-columns: 1fr 2fr;
             }
-
+            }
             @media screen and (min-width: 1000px) {
                 .wrapper {
                     display: grid;
@@ -83,14 +72,12 @@
                     color: #444;
                 }
             }
-        }
-
+	}
         h3 {
-            margin: 30px;
-            display: inline-block;
-            border-radius: 20px;
+         margin: 30px;
+         display: inline-block;
+	 border-radius: 20px;
         }
-
         button {
             float: right;
             background-color: #296082;
@@ -109,92 +96,377 @@
         }
 
         .button2:hover {
-            box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+            box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
         }
 
-    </style>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VW19F5HS9P"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
+   </style>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-VW19F5HS9P"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
 
-        gtag('js', new Date());
-
-        gtag('config', 'G-VW19F5HS9P');
-    </script>
+	gtag('config', 'G-VW19F5HS9P');
+	</script>
     <meta charset="utf-8">
 </head>
-<body style="font-family:Roboto">
-<div class="wrapper">
-    <div class="titleBanner" style="color: #296082 ">
-        <h1>Projecten van studenten </h1>
-    </div>
+ <body style="font-family:Roboto">
+	<div class="wrapper">
+            <div class="titleBanner" style="color: #296082 ">
+            <h1>Projecten van studenten </h1>
 
-    <div class="centerField">
-        <div class="box">
-            Hieronder kunnen jullie alle projecten vinden waar studenten aan gewerkt hebben tijdens het vak Onderwijs en
-            Communicatie. Alle materiaal mag hergebruikt worden voor onderwijs gerelateerde activiteiten maar we vragen
-            jullie om de betreffende studenten te noemen.
-        </div>
-    </div>
-</div>
-<div class="row">
-    <div class="column">
-        <h2 style="background-color: #eef;"> Wiskundeonderwijs </h2>
-        <div class="row">
-            <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/origami/" target="_blank">
-                <h3 style="background-color: #eef;"> Wiskunde met origami </h3></a>
-            <p></p>
-            <div class="imagebox">
-                <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/origami/" target="_blank">
-                    <img align="middle" src="Images/Origami2.jpg" width="300" height="250"></a></div>
-            <p> </p>
-        </div>
-        <div class="row">
-            Origami is de kunst van het vouwen. Dit vouwen kan mooie kunst opleveren en veel mensen kennen origami daarom
-            ook van bijvoorbeeld de prachtige kraanvogels. Wat minder mensen weten is dat er ook een grote connectie is
-            tussen wiskunde en origami! Origami kan gebruikt worden in de klas om wiskunde beter te snappen.
-            <p></p>
-            <div class="boxje">
-                <p>In deze les wordt het begrip van verhoudingen duidelijk gemaakt met behulp van vouwconstructies.</p>
+            </div>
 
-                <p><b>Voor de leraar:</b> Een handleiding om een les van ongeveer 50 minuten te geven. Deze les is
-                    geschikt
-                    voor de derde of vierde klas van HAVO en VWO.</p>
-            </div>
-        </div>
-    </div>
-    <div class="column">
-        <h2 style="background-color: #eef;"> Communicatie van de Wiskunde </h2>
-        <div class="row">
-            <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/Animation/" target="_blank">
-                <h3 style="background-color: #eef;"> Een animatie over Burnside's Lemma</h3>
-            </a>
-            <p></p>
-            <div class="imagebox">
-                <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/Animation/">
-                    <img align="center" src="Images/Animation.PNG" width="300" height="250">
-                </a></div>
-        </div>
-        <div class="row">
-            <p>
-                Stel er is een winkel waar kralenkettingen worden verkocht die bestaan uit de kleuren: rood, blauw en
-                groen.
-                We willen graag weten hoeveel verschillende kettingen we kunnen maken met een vaste lengte. Om dat te
-                berekenen kunnen we Burnside's lemma gebruiken! In deze animatie wordt een introductie gegeven in de
-                groepentheorie en Burnside's lemma.
-            </p>
-            <div class="boxje">
-                <p><b>Voor de leraar:</b> Een handleiding om deze animatie te gebruiken in de klas. Inclusief een
-                    aantal
-                    vragen voor leerlingen om hun kennis te testen.</p>
-            </div>
-        </div>
-    </div>
-</div>
+            <div class="centerField">
+                <div class="box">
+                Hieronder kunnen jullie alle projecten vinden waar studenten aan gewerkt hebben tijdens het vak Onderwijs en Communicatie. Alle materiaal mag hergebruikt worden voor onderwijs gerelateerde activiteiten
+		maar we vragen jullie om de betreffende studenten te noemen. 
+                </div>
+	    </div>
+	</div>
+	 <div class="row">
+		 <div class="column">
+			 <h2 style="background-color: #eef;"> Wiskundeonderwijs </h2>
+			 <div class = "row">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/origami/" target="_blank">
+			 <h3 style="background-color: #eef;"> Wiskunde met origami </h3></a>
+				 <p></p>
+				 <div class="imagebox">
+				  <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/origami/" target="_blank">
+			 <img align="middle" src="Images/Origami2.jpg"  width="300" height="250"></a></div>
+			 <p> </p>
+			 </div>
+			 <div class = "row">  
+				 Origami is de kunst van het vouwen. Dit vouwen kan mooie kunst opleveren en veel 
+				 mensen kennen origami daarom ook van bijvoorbeeld de prachtige kraanvogels. 
+				 Wat minder mensen weten is dat er ook een grote connectie is tussen wiskunde 
+				 en origami! Origami kan gebruikt worden in de klas om wiskunde beter te snappen. 
+				 <p></p>
+				 <div class="boxje"><p>In deze les wordt het begrip van verhoudingen duidelijk gemaakt met behulp van 
+				 vouwconstructies.</p>
+
+			         <p>
+					 <b>Voor de leraar:</b> Een handleiding om een les van ongeveer 50 minuten te geven. Deze les is geschikt 
+					 voor de derde of vierde klas van HAVO en VWO.</p>
+				 </div>
+		 </div>
+		 </div>
+		 <div class="column">
+			 <h2 style="background-color: #eef;"> Communicatie van de Wiskunde </h2>
+			 <div class = "row">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/Animation/" target="_blank">
+					 <h3 style="background-color: #eef;"> Een animatie over Burnside's Lemma</h3>
+				 </a>
+				 <p></p>
+				 <div class="imagebox">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/Animation/">
+			 		<img align="center" src="Images/Animation.PNG"  width="300" height="250"> 
+				 </a></div>
+			 </div>
+			 <div class = "row">
+			 <p> 
+				 Stel er is een winkel waar kralenkettingen worden verkocht die bestaan uit de kleuren: 
+				 rood, blauw en geel. Hoeveel verschillende kettingen kan 
+				 deze winkel verkopen, er vanuitgaande dat we oneindig veel 
+				 kralen van elke kleur hebben? Met Burnside's lemma kun je dit soort vragen beantwoorden.</p>
+
+				 <div class="boxje"><p>In deze animatie bedoeld voor een breed publiek geven we een 
+					 introductie in de groepentheorie en Burnside's lemma.</p>
+				 
+				 <p><b>Gebruik:</b> Voel vrij om deze animatie te gebruiken in de klas of tijdens een 
+				 activiteit om iets leuks te laten zien uit de moderne wiskunde!</p>
+				 </div>
+			 </div>
+		 </div>
+	 </div>
+	 <div class="row">
+		 <div class="column">
+			 <div class="row">
+				 <p></p>
+				  <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/slechtziende/" target="_blank">
+			 <h3 style="background-color: #eef;"> Wiskunde voor slechtziendeleerlingen </h3></a>
+				 <p></p>
+				 <div class="imagebox">
+				   <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/slechtziende/" target="_blank">
+			 <img align="middle" src="Images/Driedimenionale_objecten.jpg"  width="300" height="250"></a>
+			 </div></div>
+			 <div class="row">
+			 <p> 
+				 Als wiskundigen berusten we vaak op ons vermogen om concepten te 
+				 visualiseren. Wanneer dit inbeeldingsvermogen mist, zal een wiskundige 
+				 andere vaardigheden moeten benutten. Dit zou men niet moeten beperken 
+				 als wiskundigen. Toch blijkt dat de generatie slechtziende leerlingen 
+				 tegenwoordig beperkt wordt in hun wiskundeonderwijs, zeker op gebieden 
+				 waar ruimtelijk inzicht ter sprake komt.
+				 
+				 <div class="boxje">
+				 <p></p>In dit project hebben de studenten een les ontwikkeld voor slechtziende leerlingen over meetkundige 
+				 objecten en de verschillende eigenschappen die deze hebben.</p>
+				 
+				 <p><b>Voor de leraar:</b> Een lesplan en een opgavenplan om een les over driedimensionale
+				 meerkunde te geven.</div>
+			 </p>
+			 </div>
+		 </div>
+		 <div class="column">
+			 <div class = "row">
+				 <p></p>
+				   <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/pythagoras/" target="_blank">
+			 <h3 style="background-color: #eef;" align="middle"> Pythagoras in de klas</h3></a>
+			 <p></p>
+				 <div class="imagebox">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/pythagoras/" target="_blank">
+			 <img align="middle" src="Images/Pythagoras.jpg"  width="300" height="250"> </a></div>
+			 </div>
+			 <p></p>
+			 <div class="row">
+				 
+				 Pythagoras is een wiskundetijdschrift met als doel jongeren kennis 
+				 te laten maken met de leuke kanten van wiskunde. Daarvoor 
+				 richt het zich voornamelijk tot leerlingen van het VWO en HAVO. 
+				 Het is in 1961 opgericht als initief van de Nederlandse Onderwijscommissie voor Wiskunde.
+				 Het doel van dit project is om middelbare scholieren die geïnteresseerd zijn in wiskunde 
+				 in aanraking laten komen met Pythagoras.
+				 <p></p>
+				 
+				 <div class ="boxje"> <p></p>In dit project hebben de studenten begeleidend materiaal ontikkeld bij een 
+					 artikel uit Pythagoras, zodat docenten dit in de klas kunnen gebruiken.</p> 
+					 
+					 <p><b>Voor de leraar:</b> Een docentenhandleiding en drie werkbladen met uitwerkingen. 
+					 Elk werkblad vult een les van ongeveer 45 minuten.</p> </div>
+			 </div>
+		 </div>
+	 </div>
+	  <div class="row">
+		 <div class="column">
+			 <div class="row">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/statistiekHAVO4/" target="_blank">
+			 <h3 style="background-color: #eef;"> Module Statistiek voor HAVO 4 </h3></a>
+				 <p></p>
+				 <div class="imagebox">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/statistiekHAVO4/" target="_blank">
+			 <img align="middle" src="Images/Standard_Normal_Distribution.png"  width="300" height="250"></a></div>
+			 <p></p>
+			 </div>
+			 <div class="row">
+				 <p>
+					 Het huidige examenprogramma voor havo wiskunde A bevat een onderdeel ICT. Aan het eind van de opleiding wordt er 
+					 verwacht dat de leerlingen statistische vraagstukken kunnen beantwoorden over grote datasets. Hiervoor moeten de 
+					 leerlingen leren omgaan met datasets op een computer. Toch bestaat er geen standaardprogramma hierover. Sommige scholen
+					 gebruiken een module van de methode Moderne Wiskunde. We hebben een vervanging gemaakt voor deze module, waarin de 
+					 behandelde theorie voor de statistiek en ICT beter op elkaar aansluiten.</p> 
+
+				 <div class ="boxje"> <p></p>In dit project hebben de studenten een vervanging gemaakt voor de module van de methode Moderne Wiskunde, 
+					 waarin de behandelde theorie voor de statistiek en ICT beter op elkaar aansluiten. Bovendien leren de leerlingen vaardigheden 
+					 met betrekking tot Google spreadsheets die voor latere projecten ook toegepast kunnen worden.</p> 
+					 
+					 <p><b>Voor de leraar:</b> Een syllabus met extra theorie en verduidelijkheden, en nog een boekje over ICT vaardigheden.</p> </div>
+			 </div>
+		 </div>
+		  
+		 <div class="column">
+			 <div class="row">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/nfi/" target="_blank">
+			 <h3 style="background-color: #eef;"> Een infographic over de prosecutor's fallacy</h3></a>
+				 <p></p>
+				 <div class="imagebox">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/nfi/" target="_blank">
+			 <img align="middle" src="Images/NFI.png"  width="500" height="270"> </a></div>
+			 </div>
+			 <div class="row">
+				 <p></p>
+				 <p>
+					 Dit project is tot stand gekomen als een samenwerking met Prof. dr. 
+					 Marjan Sjerps van het NFI en de UvA. Marjan Sjerps rapporteert met 
+					 een team van het NFI over verricht forensisch onderzoek. In deze 
+					 rapporten vermelden zij onder andere de bewijskracht van bewijsstukken. 
+					 De bewijskracht van deze bewijsstukken is van groot belang tijdens grote 
+					 ingewikkelde rechtszaken, waar veel partijen in zijn betrokken.</p>
+				 <p></p>
+				 <br>
+
+				 <div class="boxje"> In dit project zijn er twee infographics ontwikkeld waarin de 
+					 prosecutor's fallacy wordt uitgelegd. De infographics hebben als doel om 
+					 rechters te helpen deze fout niet te maken tijdens het lezen van een rapport. 
+				 
+				 <p><b>Gebruik</b>: Voel vrij om alle materiaal te gebruiken in de klas, tijdens een project of
+					 een activiteit om iets leuks te laten zien uit de moderne wiskunde! Dit onderwerp kan gebruikt worden
+				 in het kader van een vak over kansrekening of statistiek om te illustreren hoe belangrijk het is om scherp te 
+				 kijken naar wat statistische resultaten eigenlijk betekennen.</p></div>
+			 </div>
+		 </div>
+	  </div>
+	 <div class="row">
+		 <div class="column">
+			 <div class="row">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/python/" target="_blank">
+			 <h3 style="background-color: #eef;"> Module Python voor bovenbouw </h3></a>
+				 <p></p>
+				 <div class="imagebox">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/python/" target="_blank">
+			 <img align="middle" src="Images/Python.jpg"  width="300" height="250"></a></div>
+			 <p></p>
+			 </div>
+			 <div class="row">
+				 <p>
+					 Op de middelbare school worden allerlei vaardigheden opgebouwd en wordt er kennis bijgebracht. 
+					 Er is voorlopig een vaardigheid die ontbreekt: het programmeren. In de laatste 20 jaar is 
+					 programmeren een stuk toegankelijker geworden en daarmee ook vaker gebruikt om problemen op te lossen. 
+					 In een groot deel van de vervolgopleidingen wordt programmeren voor van alles gebruikt, 
+					 zoals bij data-analyse of modeleren. </p>
+					 
+					 <div class="boxje"> <p>Voor het project Plezier met Python was de opdracht een Python cursus te maken voor 
+					 leerlingen van het Stedelijk Gymnasium Leiden van VWO 3 t/m 5. </p> 
+					 <p> <b>Voor de leraar:</b> Een programmeercursus bestaande uit 9 lessen, om de basis van programmeren 
+					 over te brengen aan de hand van leuke wiskundige opdrachten.</p></div>
+</p> 
+			 </div>
+		 </div>
+		  
+		 <div class="column">
+			 <div class="row">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/imaginary/" target="_blank">
+			 <h3 style="background-color: #eef;"> IMAGINARY</h3></a>
+				 <p></p>
+				 <div class="imagebox">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/imaginary/" target="_blank">
+			 <img align="middle" src="Images/IMAGINRY.jpg"  width="500" height="250"> </a></div>
+			 </div>
+			 <div class="row">
+				 <p></p>
+				 <p></p>
+				 <p></p>
+				 <p>
+					 IMAGINARY is een rondreizende wiskunde tentoonstelling door heel Nederland en België, 
+					 georganiseerd door universiteiten en partnerorganisaties. Het idee van IMAGINARY is 
+					 om de pracht en praal van de wiskunde te laten zien aan een breed publiek, en zo was 
+					 het ook de bedoeling dat onze activiteit dit reflecteert. De opening van IMAGINARY in 
+					 Amsterdam was op 12 mei 2023. Op 12 mei word de Internationale Dag van Vrouwen in de 
+					 Wiskunde gevierd, en dus hebben de studenten een presentatie over het werk van Maryna 
+					 Viazovska ontwikkeld. </p>
+					 
+					 <div class="boxje"> In dit project geven we een presentatie over het werk van Maryna Viazovska,
+					 die het Fieldsmedaille heeft gewonnen in 2022. De presentatie focust vooral op het <i></i>sphere packing 
+					 problem</i>.
+					 <p></p>
+					 <p><b>Gebruik</b>: Voel vrij om de slides te gebruiken tijdens een activiteit of lezing over het wek
+					 van Maryna Viazovska.</p></div>
+			 </div>
+		 </div>
+	  </div>
+
+	 <div class="row">
+		 <div class="column">
+			 <div class="row">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/combinatoriek/" target="_blank">
+					 <h3 style="background-color: #eef;"> Gevarieerd Tellen - Examenvoorbereiding Combinatoriek </h3></a>
+				 <p></p>
+				 <div class="imagebox">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/combinatoriek/" target="_blank">
+			 <img align="middle" src="Images/Combinatorics.png"  width="300" height="250"></a></div>
+			 <p></p>
+			 </div>
+			 <div class="row">
+				 <p>
+					Deze lessen hebben wij zelf voorbereid en gegeven aan twee vwo klassen wiskunde. 
+					Voor dit project zijn we tweemaal naar het Coornhert Lyceum in Haarlem gegaan om examentraining te geven over 
+					combinatoriek aan leerlingen die in hun laatste jaar vwo zitten. Deze leerlingen maken dit jaar hun centraal 
+					eindexamens en het onderwerp combinatoriek is daar onderdeel van. In de afgelopen 10 jaar bestond 6,5% van de 
+					vragen uit combinatoriek, zie Explicaro. De leerlingen hebben dit onderwerp voor het laatst behandeld in de 
+					vierde klas en de nodige herhaling en uitleg was dus zeer welkom. </p> 
+
+				 <div class="boxje"> 
+					<b>In dit project:</b> een module met als doel om leerlingen goed voor te bereiden op het onderdeel Combinatoriek van 
+					de examens bij Wiskunde A. 
+					 <p><b>Voor de leraar:</b> Materiaal voor examentraining over combinatoriek aan leerlingen die in hun laatste jaar vwo zitten.</p>
+				 
+				 </div>
+			 </div>
+		 </div>
+		  
+		 <div class="column">
+			 <div class="row">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/nwd/" target="_blank">
+			 <h3 style="background-color: #eef;"> De stelling van Descartes - Een module voor wiskundeleraren</h3></a>
+				 <p></p>
+				 <div class="imagebox">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/nwd/" target="_blank">
+			 <img align="middle" src="Images/Polytopes.png"  width="500" height="250"> </a></div>
+			 </div>
+			 <div class="row">
+				 <p></p>
+				 <p>
+					 We hebben twee lesboekjes gemaakt voor leerlingen van bovenbouw wiskunde D. Het eerste boekje 
+					 behandelt de formule van Euler voor veelvlakken en het tweede boekje draait om ons hoofdonderwerp: 
+					 de stelling van Descartes. Voor de doelgroep hebben we specifiek gekozen voor leerlingen die wiskunde D volgen. 
+					 De stelling van Descartes past wel goed bij wiskunde D, omdat we de leerling ook de stelling van Descartes wilden 
+					 laten bewijzen. Het reguliere programma van wiskunde D bevat namelijk relatief veel bewijzen. Bovendien kiezen wiskunde 
+					 D leerlingen vaak voor wiskunde als vervolgopleiding, waarvoor ons lesboekje als korte introductie kan dienen aangezien 
+					 universitaire wiskunde ook draait om stellingen en bewijzen. </p>
+
+				 <div class="boxje">
+					 <p><b>In dit project</b>: twee lesboekjes gemaakt voor leerlingen van bovenbouw wiskunde D. Het eerste boekje 
+					 behandelt de formule van Euler voor veelvlakken, en het tweede boekje de stelling van Descartes.</p>
+					 <p> <b>Voor de leraar:</b> De twee lesboekjes kunnen gebruikt worden in de klas om een les te geven over de stelling van Euler en/of de
+					 stelling van Descartes bij Wiskunde D.</p>
+				 
+				 </div>
+			 </div>
+		 </div>
+	  </div>
+	 
+	  <div class="row">
+		 <div class="column">
+			 <div class="row">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/Openai/" target="blank">
+					 <h3 style="background-color: #eef;"> ChatGPT in het wiskundeonderwijs </h3></a>
+				 <p></p>
+				 <div class="imagebox">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/Openai/" target="blank">
+					 <img align="middle" src="Images/ChatGPT.png"  width="500" height="250"></a></div>
+			 <p></p>
+			 </div>
+			 <div class="row">
+				 <p>
+					Er zijn veel verschillende meningen over het gebruik van Generative AI in het onderwijs. Een leraar, 
+					die schrijft voor Education Week, is van mening dat het net zo revulotionair kan zijn als het gebruik 
+					van Wikipedia en een rekenmachine in het onderwijs. Maar bij de NOS meldden zich ruim 250 scholieren 
+					 die bevestigen ChatGPT te gebruiken voor schoolopdrachten. </p>
+					 
+					<div class="boxje"><p> In dit project hebben de studenten materiaal ontwikkeld om leerlingen te begeleiden 
+					bij het gebruik van ChatGPT zodat ze leren omgaan met deze nieuwe software.</p>
+					
+					<p><b>Voor de leraar:</b> een docentenhandleiding, een presentatie over ChatGPT om het onderwerp in te leiden in de klas, 
+					en een opgavenblad over het gebruik van ChatGPT bij het onderwerp differentiëren en integreren.</p></div>
+			 </div>
+		 </div>
+		  
+		 <div class="column">
+			 <div class="row">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/muziek/" target="_blank">
+			 <h3 style="background-color: #eef;"> Muziek en Lie Groepen</h3></a>
+				 <p></p>
+				 <div class="imagebox">
+				 <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/muziek/" target="_blank">
+			 <img align="middle" src="Images/LieGroups.png"  width="500" height="270"> </a></div>
+			 </div>
+			 <div class="row">
+				 <p></p>
+				 <p>
+					 Muziek en wiskunde worden vaak gezien als twee compleet verschillende vakgebieden. Pianiste 
+					 Petra Cini probeert dit idee te verbreken door wiskundige concepten te verwerken in muziekstukken. 
+					 Gedreven door een passie voor muziek en een interesse in groepentheorie schreef ze
+					 een piano etudes geïnspireerd door de theorie achter groepen.</p>
+				 <div class="boxje"><p> In dit project: Petra's etudes geïspireerd dor de diedergroep D_3 en de Lie-groep SO(3). 
+				 De studenten hebben een boekje gemaakt waarin ze de wiskundige theorie achter Lie-groepen uitleggen.</p> 
+				 <p><b>Gebruik</b>: Voel vrij om alle materiaal te gebruiken in de klas, tijdens een project of
+					 een activiteit om te laten zien hoe kunstenaars geïspireerd worden door de wetenschap!</p></div>
+			 </div>
+		 </div>
+	  </div>
+	 
+                
 </body>
 </html>

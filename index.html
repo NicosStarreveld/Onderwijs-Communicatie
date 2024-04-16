@@ -1,117 +1,200 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UvA - Onderwijs en Communicatie</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: 'Roboto', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f7f7f7;
+            margin: 40px;
         }
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
+        .box {
+            border-radius: 20px;
+            padding: 10px;
+            font-size: 120%;
+            background-color: #eef;
         }
 
-        .title {
-            text-align: center;
-            font-size: 36px;
-            color: #296082;
-            margin-bottom: 20px;
+        .boxje {
+            border-radius: 20px;
+            padding: 10px;
+            font-size: 100%;
+            background-color: #eef;
         }
 
-        .subtitle {
-            text-align: center;
-            font-size: 20px;
-            color: #333;
-            margin-bottom: 30px;
+        .imagebox {
+            width: 45%;
+            margin-left: 80px;
+            align: center
         }
 
-        .project {
+        .titleBanner {
             background-color: #fff;
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 30px;
+            text-align: center;
+            font-size: 150%;
+            grid-area: titleBanner;
         }
 
-        .project-title {
-            font-size: 24px;
-            color: #296082;
-            margin-bottom: 10px;
+        .wrapper {
+            background-color: #fff;
         }
 
-        .project-description {
-            font-size: 16px;
-            color: #555;
-            margin-bottom: 20px;
+        .centerField {
+            background-color: #fff;
+            grid-area: centerField;
         }
 
-        .project-link {
-            display: block;
+        .centerBox {
+            background-color: #fff;
+            grid-area: centerBox;
+        }
+
+        .column {
+            float: left;
+            width: 45%;
+            margin: 10px;
+            align: center
+        }
+
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        @supports (display: grid) {
+            @media screen and (min-width: 600px) {
+                .centerBox {
+                    display: grid;
+                    grid-gap: 25px;
+                    grid-template-columns: 1fr 2fr;
+                }
+            }
+
+            @media screen and (min-width: 1000px) {
+                .wrapper {
+                    display: grid;
+                    grid-gap: 25px;
+                    grid-template-columns: 1fr 1000px 1fr;
+                    grid-template-areas:
+                    ". titleBanner . "
+                    ". centerField .";
+                    background-color: #fff;
+                    color: #444;
+                }
+            }
+        }
+
+        h3 {
+            margin: 30px;
+            display: inline-block;
+            border-radius: 20px;
+        }
+
+        button {
+            float: right;
+            background-color: #296082;
+            border: none;
+            color: white;
+            padding: 15px 32px;
             text-align: center;
             text-decoration: none;
-            color: #296082;
-            font-weight: bold;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            border-radius: 30px;
+            cursor: pointer;
+            -webkit-transition-duration: 0.4s; /* Safari */
+            transition-duration: 0.4s;
         }
 
-        .project-link:hover {
-            text-decoration: underline;
+        .button2:hover {
+            box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
         }
 
-        .image {
-            display: block;
-            margin: 0 auto;
-            margin-bottom: 20px;
-            border-radius: 5px;
-        }
-
-        @media screen and (min-width: 768px) {
-            .project {
-                display: flex;
-                align-items: center;
-            }
-
-            .project-content {
-                flex: 1;
-            }
-
-            .image {
-                max-width: 300px;
-                margin: 0;
-                margin-right: 20px;
-            }
-        }
     </style>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VW19F5HS9P"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'G-VW19F5HS9P');
+    </script>
+    <meta charset="utf-8">
 </head>
-<body>
-    <div class="container">
-        <h1 class="title">Projecten van studenten</h1>
-        <p class="subtitle">Hieronder vindt u alle projecten waar studenten aan hebben gewerkt tijdens het vak Onderwijs en Communicatie. Het materiaal mag worden hergebruikt voor onderwijsgerelateerde activiteiten met vermelding van de betreffende studenten.</p>
-
-        <!-- Project 1 -->
-        <div class="project">
-            <h2 class="project-title">Wiskunde met origami</h2>
-            <img src="Images/Origami2.jpg" alt="Origami" class="image">
-            <p class="project-description">Origami is de kunst van het vouwen. Dit project legt de connectie tussen wiskunde en origami uit.</p>
-            <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/origami/" class="project-link" target="_blank">Bekijk project</a>
-        </div>
-
-        <!-- Project 2 -->
-        <div class="project">
-            <h2 class="project-title">Een animatie over Burnside's Lemma</h2>
-            <img src="Images/Animation.PNG" alt="Animation" class="image">
-            <p class="project-description">Deze animatie geeft een introductie in de groepentheorie en Burnside's lemma.</p>
-            <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/Animation/" class="project-link" target="_blank">Bekijk project</a>
-        </div>
-
-        <!-- Add more projects here -->
-
+<body style="font-family:Roboto">
+<div class="wrapper">
+    <div class="titleBanner" style="color: #296082 ">
+        <h1>Projecten van studenten </h1>
     </div>
+
+    <div class="centerField">
+        <div class="box">
+            Hieronder kunnen jullie alle projecten vinden waar studenten aan gewerkt hebben tijdens het vak Onderwijs en
+            Communicatie. Alle materiaal mag hergebruikt worden voor onderwijs gerelateerde activiteiten maar we vragen
+            jullie om de betreffende studenten te noemen.
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="column">
+        <h2 style="background-color: #eef;"> Wiskundeonderwijs </h2>
+        <div class="row">
+            <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/origami/" target="_blank">
+                <h3 style="background-color: #eef;"> Wiskunde met origami </h3></a>
+            <p></p>
+            <div class="imagebox">
+                <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/origami/" target="_blank">
+                    <img align="middle" src="Images/Origami2.jpg" width="300" height="250"></a></div>
+            <p> </p>
+        </div>
+        <div class="row">
+            Origami is de kunst van het vouwen. Dit vouwen kan mooie kunst opleveren en veel mensen kennen origami daarom
+            ook van bijvoorbeeld de prachtige kraanvogels. Wat minder mensen weten is dat er ook een grote connectie is
+            tussen wiskunde en origami! Origami kan gebruikt worden in de klas om wiskunde beter te snappen.
+            <p></p>
+            <div class="boxje">
+                <p>In deze les wordt het begrip van verhoudingen duidelijk gemaakt met behulp van vouwconstructies.</p>
+
+                <p><b>Voor de leraar:</b> Een handleiding om een les van ongeveer 50 minuten te geven. Deze les is
+                    geschikt
+                    voor de derde of vierde klas van HAVO en VWO.</p>
+            </div>
+        </div>
+    </div>
+    <div class="column">
+        <h2 style="background-color: #eef;"> Communicatie van de Wiskunde </h2>
+        <div class="row">
+            <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/Animation/" target="_blank">
+                <h3 style="background-color: #eef;"> Een animatie over Burnside's Lemma</h3>
+            </a>
+            <p></p>
+            <div class="imagebox">
+                <a href="https://nicosstarreveld.github.io/Onderwijs-Communicatie/Pages/Animation/">
+                    <img align="center" src="Images/Animation.PNG" width="300" height="250">
+                </a></div>
+        </div>
+        <div class="row">
+            <p>
+                Stel er is een winkel waar kralenkettingen worden verkocht die bestaan uit de kleuren: rood, blauw en
+                groen.
+                We willen graag weten hoeveel verschillende kettingen we kunnen maken met een vaste lengte. Om dat te
+                berekenen kunnen we Burnside's lemma gebruiken! In deze animatie wordt een introductie gegeven in de
+                groepentheorie en Burnside's lemma.
+            </p>
+            <div class="boxje">
+                <p><b>Voor de leraar:</b> Een handleiding om deze animatie te gebruiken in de klas. Inclusief een
+                    aantal
+                    vragen voor leerlingen om hun kennis te testen.</p>
+            </div>
+        </div>
+    </div>
+</div>
 </body>
 </html>

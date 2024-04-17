@@ -15,25 +15,28 @@
 	text-align: justify; 
     }
 
-    .wrapper {
-        background-color: #fff;
+   .box {
+        background-color: #eef;
         padding: 20px;
-        margin: 20px;
+        font-size: 1.1rem; /* Increased font size for better readability */
         border-radius: 10px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added box shadow for depth */
-    }
-
-    .titleBanner {
-        background-color: #296082; /* Changed title banner color for better contrast */
-        color: #fff;
-        text-align: center;
-        font-size: 2rem;
-        padding: 20px;
         margin-bottom: 20px;
-        border-radius: 10px;
-    }
+	text-align: justify; 
+   }
 
-     .chapterBanner {
+    .boxje {
+	border-radius: 20px;
+	padding: 10px;
+	font-size: 100%;
+	background-color: #eef;
+	text-align: justify; 
+	}
+
+    .centerField {
+        text-align: center; /* Improved alignment */
+    }
+	    
+  .chapterBanner {
         background-color: #296082; /* Changed title banner color for better contrast */
         color: #fff;
         text-align: center;
@@ -43,43 +46,34 @@
         border-radius: 1px;
     }
 
-    .box {
-        background-color: #eef;
-        padding: 20px;
-        font-size: 1.1rem; /* Increased font size for better readability */
-        border-radius: 10px;
-        margin-bottom: 20px;
-	text-align: justify; 
-    }
-
-    .boxje {
-	border-radius: 20px;
-	padding: 10px;
-	font-size: 100%;
-	background-color: #eef;
-	text-align: justify; 
-	}
-    .imagebox{
-	width: 45%;
-	margin-left: 80px;
-	align: center
-	}	
-
-    .centerField {
-        text-align: center; /* Improved alignment */
-    }
-
-    .column {
+.column {
   	float: left;
   	width: 45%;
+	padding: 20px;
 	margin: 20px;
 	align: center
 	}
-    .row:after {
+.row:after {
   	content: "";
   	display: table;
   	clear: both;
 	}
+
+.imagebox{
+	width: 45%;
+	margin-left: 80px;
+	align: center
+	}
+	    
+    .titleBanner {
+        background-color: #296082; /* Changed title banner color for better contrast */
+        color: #fff;
+        text-align: center;
+        font-size: 2rem;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 10px;
+    }
 
      .toc {
         text-align: left;
@@ -108,6 +102,14 @@
     .toc-list-item a:hover {
         text-decoration: underline;
     }
+
+ .wrapper {
+        background-color: #fff;
+        padding: 20px;
+        margin: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added box shadow for depth */
+    }	
 
     @media screen and (min-width: 600px) {
         .wrapper {
@@ -175,7 +177,42 @@
         </div>
     </div>
 </div>
+
+<div class="wrapper">
+	<div class="toc">
+            <h2 class="toc-title">Wat is er te vinden?</h2>
+            <ul class="toc-list">
+                <!-- JavaScript will populate this list -->
+            </ul>
+        </div>
+
+    <!-- JavaScript to generate the table of contents -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var tocList = document.querySelector(".toc-list");
+            var headings = document.querySelectorAll("h4");
+
+            headings.forEach(function(heading, index) {
+                var listItem = document.createElement("li");
+                var anchor = document.createElement("a");
+                anchor.textContent = heading.textContent;
+                anchor.setAttribute("href", "#section" + (index + 1));
+                listItem.classList.add("toc-list-item");
+                anchor.classList.add("toc-list-item-link");
+                listItem.appendChild(anchor);
+                tocList.appendChild(listItem);
+            });
+        });
+    </script>
 	
+	<div class="centerField">
+		<div class="imagebox">
+			<img align="middle" src="Images/Girls.jpg" width="1100" height ="250">
+				</div>
+	</div>
+	    </div>
+
+
 	 <div class="row">
 		 <div class="column">
 			 <div class = "chapterBanner">

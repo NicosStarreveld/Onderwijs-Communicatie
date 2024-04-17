@@ -198,36 +198,28 @@
         </div>
 
     <!-- JavaScript to generate the table of contents -->
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            var tocList = document.querySelector(".toc-list");
-            var headings = document.querySelectorAll("h4");
+   <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var tocList = document.querySelector(".toc-list");
+        var headings = document.querySelectorAll("h4");
 
-            headings.forEach(function(heading, index) {
+        headings.forEach(function(heading, index) {
             var listItem = document.createElement("li");
             var anchor = document.createElement("a");
             anchor.textContent = heading.textContent;
-            anchor.setAttribute("href", "#section" + (index + 1));
-            listItem.classList.add("toc-list-item");
+
+            // Get the href attribute from the corresponding h4 element
+            var link = heading.getAttribute("href");
+            anchor.setAttribute("href", link);
+
             anchor.classList.add("toc-list-item-link");
-            listItem.appendChild(anchor);
-            tocList.appendChild(listItem);
-
-	    // Add click event listener to scroll to section
-            anchor.addEventListener("click", function(event) {
-            event.preventDefault(); // Prevent default behavior of anchor tag
-                var sectionId = anchor.getAttribute("href").substring(1); // Get section id
-                var section = document.getElementById(sectionId); // Find section element
-                if (section) {
-                    section.scrollIntoView({ behavior: "smooth", block: "start" }); // Scroll to section
-                }
-            });
+            listItem.classList.add("toc-list-item");
 
             listItem.appendChild(anchor);
             tocList.appendChild(listItem);
-            });
         });
-    </script>
+    });
+</script>
 	
 	<div class="centerField">
 		<div class="imagebox">

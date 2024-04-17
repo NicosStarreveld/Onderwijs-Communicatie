@@ -176,6 +176,42 @@
         </div>
     </div>
 </div>
+
+<div class="wrapper">
+	<div class="toc">
+            <h2 class="toc-title">Wat is er te vinden?</h2>
+            <ul class="toc-list">
+                <!-- JavaScript will populate this list -->
+            </ul>
+        </div>
+
+    <!-- JavaScript to generate the table of contents -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var tocList = document.querySelector(".toc-list");
+            var headings = document.querySelectorAll("h4");
+
+            headings.forEach(function(heading, index) {
+                var listItem = document.createElement("li");
+                var anchor = document.createElement("a");
+                anchor.textContent = heading.textContent;
+                anchor.setAttribute("href", "#section" + (index + 1));
+                listItem.classList.add("toc-list-item");
+                anchor.classList.add("toc-list-item-link");
+                listItem.appendChild(anchor);
+                tocList.appendChild(listItem);
+            });
+        });
+    </script>
+	
+	<div class="centerField">
+		<div class="imagebox">
+			<img align="middle" src="Images/Girls.jpg" width="300" height ="700">
+				</div>
+	</div>
+	    </div>
+	
+	
 	 <div class="row">
 		 <div class="column">
 			 <div class = "chapterBanner">

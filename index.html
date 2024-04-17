@@ -131,6 +131,17 @@
         }
     }
 
+        @media screen and (min-width: 1000px) {
+        .wrapper_two {
+            display: grid;
+            grid-gap: 20px;
+            grid-template-columns: 1fr 2fr 3fr;
+            grid-template-areas:
+                "centerField centerField centerField";
+        }
+    }
+
+
     h1, h3 {
         margin: 0 0 20px 0; /* Added margin-bottom for better spacing */
     }
@@ -178,7 +189,7 @@
     </div>
 </div>
 
-<div class="wrapper">
+<div class="wrapper_two">
 	<div class="toc">
             <h2 class="toc-title">Wat is er te vinden?</h2>
             <ul class="toc-list">
@@ -193,14 +204,27 @@
             var headings = document.querySelectorAll("h4");
 
             headings.forEach(function(heading, index) {
-                var listItem = document.createElement("li");
-                var anchor = document.createElement("a");
-                anchor.textContent = heading.textContent;
-                anchor.setAttribute("href", "#section" + (index + 1));
-                listItem.classList.add("toc-list-item");
-                anchor.classList.add("toc-list-item-link");
-                listItem.appendChild(anchor);
-                tocList.appendChild(listItem);
+            var listItem = document.createElement("li");
+            var anchor = document.createElement("a");
+            anchor.textContent = heading.textContent;
+            anchor.setAttribute("href", "#section" + (index + 1));
+            listItem.classList.add("toc-list-item");
+            anchor.classList.add("toc-list-item-link");
+            listItem.appendChild(anchor);
+            tocList.appendChild(listItem);
+
+	    // Add click event listener to scroll to section
+            anchor.addEventListener("click", function(event) {
+            event.preventDefault(); // Prevent default behavior of anchor tag
+                var sectionId = anchor.getAttribute("href").substring(1); // Get section id
+                var section = document.getElementById(sectionId); // Find section element
+                if (section) {
+                    section.scrollIntoView({ behavior: "smooth", block: "start" }); // Scroll to section
+                }
+            });
+
+            listItem.appendChild(anchor);
+            tocList.appendChild(listItem);
             });
         });
     </script>
@@ -213,7 +237,7 @@
 
 	<div class="centerField">
 		<div class="imagebox">
-			<img align="middle" src="Images/Shaoes.jpg" width="300" height ="600">
+			<img align="middle" src="Images/Shapes.jpg" width="300" height ="600">
 				</div>
 	</div>
 	    </div>

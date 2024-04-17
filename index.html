@@ -203,14 +203,14 @@
         var tocList = document.querySelector(".toc-list");
         var headings = document.querySelectorAll("h4");
 
-        headings.forEach(function(heading, index) {
+        headings.forEach(function(heading) {
             var listItem = document.createElement("li");
             var anchor = document.createElement("a");
-            anchor.textContent = heading.textContent;
+            var link = heading.parentElement.getAttribute("href"); // Get the href attribute from the parent <a> element
 
-            // Get the href attribute from the corresponding h4 element
-            var link = heading.getAttribute("href");
+            anchor.textContent = heading.textContent;
             anchor.setAttribute("href", link);
+            anchor.setAttribute("target", "_blank"); // Open link in a new tab
 
             anchor.classList.add("toc-list-item-link");
             listItem.classList.add("toc-list-item");
